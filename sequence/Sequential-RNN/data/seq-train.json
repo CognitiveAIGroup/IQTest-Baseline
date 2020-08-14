@@ -1,0 +1,5156 @@
+{
+  "0": {
+    "answer": "-3",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2<sup>5-n</sup>-A<sub>n</sub>",
+    "stem": "7,9,-1,5,-3"
+  },
+  "1": {
+    "answer": "7/5",
+    "category": "sequence",
+    "hint": "3/1, 4/2, 5/3, 6/4\n\nA<sub>n+1</sub>=A<sub>n</sub>+1\n\nB<sub>n+1</sub>=B<sub>n</sub>+1",
+    "stem": "3,2,5/3,3/2,7/5"
+  },
+  "10": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*3",
+    "stem": "2,6,13,39,15,45,23,69"
+  },
+  "100": {
+    "answer": "-3/35",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(-3)<sup>n</sup>/7n",
+    "stem": "-3/7,3/14,-1/7,3/28,-3/35"
+  },
+  "1000": {
+    "answer": "30651",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>\\*2+A<sub>n-1</sub>^2;",
+    "stem": "2 3 13 175 30651"
+  },
+  "1001": {
+    "answer": "1/42",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=1/((n+1)^2-n-1);",
+    "stem": "1/2 1/6 1/12 1/30 1/42"
+  },
+  "1002": {
+    "answer": "37",
+    "category": "sequence-reasoning",
+    "hint": "Start(A<sub>n</sub>)\\*2-1=A<sub>n</sub>-Start(A<sub>n</sub>);",
+    "stem": "23 59 37 715"
+  },
+  "1003": {
+    "answer": "81",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>–num(A<sub>n</sub>)=9\\*(3\\*n-1);",
+    "stem": "15 27 59 81 103"
+  },
+  "1004": {
+    "answer": "252",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n^2+n)/2\\*2\\*n;",
+    "stem": "2 12 36 80 150 252"
+  },
+  "1005": {
+    "answer": "8",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2-1</sub>+A<sub>n\\*2</sub>=3\\*n+2;",
+    "stem": "2 3 2 6 3 8 6 8"
+  },
+  "1006": {
+    "answer": "115",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>1</sub>=20\\*(n-3);",
+    "stem": "55 15 35 55 75 95 115"
+  },
+  "1007": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(10-n\\*2)^2+(-1)^(n+1);",
+    "stem": "65 35 17 3"
+  },
+  "1008": {
+    "answer": "28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=3\\*n;",
+    "stem": "-2 1 7 16 28 43"
+  },
+  "1009": {
+    "answer": "111",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>+A<sub>n-1</sub>\\*2;",
+    "stem": "2 3 8 19 46 111"
+  },
+  "101": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+(-1)<sup>n</sup>",
+    "stem": "3,5,11,21,43"
+  },
+  "1010": {
+    "answer": "223",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*3+(-1)^n;",
+    "stem": "3 8 25 74 223"
+  },
+  "1011": {
+    "answer": "168",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=P(n)^2-1;",
+    "stem": "3 8 24 48 120 168"
+  },
+  "1012": {
+    "answer": "72",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2+n-1;",
+    "stem": "4 8 17 36 72 145 292"
+  },
+  "1013": {
+    "answer": "44",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2+2</sub>=A<sub>n\\*2</sub>\\*2+n;",
+    "stem": "2 4 3 9 5 20 7 44"
+  },
+  "1014": {
+    "answer": "17",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n-2</sub>+A<sub>n-1</sub>+A<sub>n</sub>=n^2;",
+    "stem": "2 1 6 9 10 17"
+  },
+  "1015": {
+    "answer": "199",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n-1;",
+    "stem": "10 9 17 50 199"
+  },
+  "1016": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>;",
+    "stem": "1 2 3 6 12 24"
+  },
+  "1017": {
+    "answer": "140",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)^3+4\\*n-1;",
+    "stem": "11 34 75 140 235"
+  },
+  "1018": {
+    "answer": "45",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>-A<sub>n</sub>; B<sub>n</sub>=B<sub>n-1</sub>\\*B<sub>n-2</sub>;",
+    "stem": "2 3 6 9 18 45"
+  },
+  "1019": {
+    "answer": "58",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=(2\\*n-2)^2;",
+    "stem": "2 2 6 22 58"
+  },
+  "102": {
+    "answer": "137",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+5*(-1)<sup>n</sup>",
+    "stem": "6,7,19,33,71,137"
+  },
+  "1020": {
+    "answer": "69",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>/2+A<sub>n-1</sub>;",
+    "stem": "36 12 30 36 51 69"
+  },
+  "1021": {
+    "answer": "18",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>+A<sub>n</sub>; B<sub>n</sub> mod 3=0, 1, 0, 1, 0, 1;",
+    "stem": "78 9 64 17 32 19 18"
+  },
+  "1022": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=P(n);",
+    "stem": "20 22 25 30 37 48"
+  },
+  "1023": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(10-2\\*n)^2+(-1)^(n+1);",
+    "stem": "65 35 17 3 1"
+  },
+  "1024": {
+    "answer": "199",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n-1;",
+    "stem": "10 9 17 50 199"
+  },
+  "1025": {
+    "answer": "140",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n^2+3\\*n+7)\\*n;",
+    "stem": "11 34 75 140 235"
+  },
+  "1026": {
+    "answer": "17",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=P(n);",
+    "stem": "2 3 5 7 11 13 17"
+  },
+  "1027": {
+    "answer": "136",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)\\*n^2;",
+    "stem": "0 4 18 48 136"
+  },
+  "1028": {
+    "answer": "137",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3+(-1)^n;",
+    "stem": "0 9 26 85 124 137"
+  },
+  "1029": {
+    "answer": "13.12",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=7+5\\*(n^2-n)/2.(n^2-n)/n+2;",
+    "stem": "3.02 4.03 3.05 9.08 13.12"
+  },
+  "103": {
+    "answer": "63",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=1/(11-4n)\n\nA<sub>2n</sub>=(n+1)<sup>3</sup>-1",
+    "stem": "1/11,7,1/7,26,1/3,63"
+  },
+  "1030": {
+    "answer": "100",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>= A<sub>n</sub>\\*2+A<sub>n+1</sub>\\*3;",
+    "stem": "1 2 8 28 100"
+  },
+  "1031": {
+    "answer": "284",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2+1</sub>-A<sub>n\\*2</sub>=7-n;",
+    "stem": "290 288 284 294 279 301 275"
+  },
+  "1032": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3-n^2;",
+    "stem": "0 4 18 48 100"
+  },
+  "1033": {
+    "answer": "2/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= 2/n;",
+    "stem": "2 1 2/3 1/2 2/5"
+  },
+  "1034": {
+    "answer": "16",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2-1</sub>= 2^(n+1);",
+    "stem": "4 5 8 10 16"
+  },
+  "1035": {
+    "answer": "38",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>-A<sub>n+1</sub>=6+n;",
+    "stem": "95 88 80 71 61 50 38"
+  },
+  "1036": {
+    "answer": "28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=n\\*3;",
+    "stem": "-2 1 7 16 28 43"
+  },
+  "1037": {
+    "answer": "69",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n+1</sub>\\*2+n-4;",
+    "stem": "69 36 19 10 5 2"
+  },
+  "1038": {
+    "answer": "31",
+    "category": "sequence-reasoning",
+    "hint": "odd number;",
+    "stem": "5 17 21 25 31"
+  },
+  "1039": {
+    "answer": "183",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>= A<sub>n</sub>\\*3+3\\*(-1)^n;",
+    "stem": "3 6 21 60 183"
+  },
+  "104": {
+    "answer": "228",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[(1+n)\\*n\\/2]<sup>2</sup>+3",
+    "stem": "4,12,39,103,228"
+  },
+  "1040": {
+    "answer": "99",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>= A<sub>n</sub>+A<sub>n+1</sub>\\*2;",
+    "stem": "1 1 3 7 17 41 99"
+  },
+  "1041": {
+    "answer": "25/6",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= n^2/6;",
+    "stem": "1/6 2/3 3/2 8/3 25/6"
+  },
+  "1042": {
+    "answer": "7/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+2)/n;",
+    "stem": "3 2 5/3 3/2 7/5"
+  },
+  "1043": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+2)^(4-n);",
+    "stem": "27 16 5 1 1/7"
+  },
+  "1044": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+3</sub>=A<sub>n</sub>+A<sub>n+1</sub>+A<sub>n+2</sub>;",
+    "stem": "0 1 1 2 4 7 13 24"
+  },
+  "1045": {
+    "answer": "-9",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>^3-1;",
+    "stem": "1 0 -1 -2 -9"
+  },
+  "1046": {
+    "answer": "512",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-2)\\*n^n;",
+    "stem": "-1 0 27 512"
+  },
+  "1047": {
+    "answer": "28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>+A<sub>n+1</sub>-1;",
+    "stem": "7 10 16 22 28"
+  },
+  "1048": {
+    "answer": "7",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>+A<sub>n+1</sub>=2\\*n;",
+    "stem": "3 -1 5 1 7"
+  },
+  "1049": {
+    "answer": "-2",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=2\\*(n-1);",
+    "stem": "10 10 8 4 -2"
+  },
+  "105": {
+    "answer": "511",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+3)<sup>3</sup>-1",
+    "stem": "63,124,215,242,511"
+  },
+  "1050": {
+    "answer": "28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-3)^3+1;",
+    "stem": "-7 0 1 2 9 28"
+  },
+  "1051": {
+    "answer": "1/2",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>/A<sub>n</sub>=0.5\\*n+0.5;",
+    "stem": "1/72 1/36 1/12 1/6 1/2"
+  },
+  "1052": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(10-n\\*2)^2+(-1)^(n+1);",
+    "stem": "65 35 17 3 1"
+  },
+  "1053": {
+    "answer": "124",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3-1;",
+    "stem": "0 7 26 63 124"
+  },
+  "1054": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^(1/2)+(5-n);",
+    "stem": "5 4.414 3.731 3"
+  },
+  "1055": {
+    "answer": "252",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n\\*(2+2\\*n);",
+    "stem": "2 12 36 80 150 252"
+  },
+  "1056": {
+    "answer": "5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)\\*(5-n);",
+    "stem": "16 27 16 5 1"
+  },
+  "1057": {
+    "answer": "-4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=2\\*(n-1);",
+    "stem": "8 8 6 2 -4"
+  },
+  "1058": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*4-3</sub>=A<sub>n\\*4-2</sub>\\*A<sub>n\\*4-1</sub>\\*A<sub>n\\*4</sub>;",
+    "stem": "12 2 2 3 14 2 7 1 18 1 2 3 40 10 1 4"
+  },
+  "1059": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*4-3</sub>=A<sub>n\\*4-2</sub>\\*A<sub>n\\*4-1</sub>\\*A<sub>n\\*4</sub>;",
+    "stem": "12 2 2 3 14 2 7 1 18 1 2 3 40 10 1 4"
+  },
+  "106": {
+    "answer": "228",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(n+1)<sup>3</sup>",
+    "stem": "4,12,39,103,228"
+  },
+  "1060": {
+    "answer": "4870847",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>^2-2;",
+    "stem": "3 7 47 2207 4870847"
+  },
+  "1061": {
+    "answer": "30651",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*2+A<sub>n+1</sub>^2;",
+    "stem": "2 3 13 175 30651"
+  },
+  "1062": {
+    "answer": "1707",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*A<sub>n+1</sub>-5;",
+    "stem": "3 7 16 107 1707"
+  },
+  "1063": {
+    "answer": "33",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=2\\*n+1;",
+    "stem": "-2 1 6 13 22 33"
+  },
+  "1064": {
+    "answer": "43",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=4\\*n-11;",
+    "stem": "38 31 28 29 34 43"
+  },
+  "1065": {
+    "answer": "307",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+num(A<sub>n</sub>);",
+    "stem": "256 269 286 302 307"
+  },
+  "1066": {
+    "answer": "307",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+num(A<sub>n</sub>);",
+    "stem": "256 269 286 302 307"
+  },
+  "1067": {
+    "answer": "11024",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>=(A<sub>n</sub>\\*A<sub>n+1</sub>)^2-1;",
+    "stem": "1 2 3 35 11024"
+  },
+  "1068": {
+    "answer": "199",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n-1;",
+    "stem": "10 9 17 50 199"
+  },
+  "1069": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>=A<sub>n\\*2-1</sub>\\*n;",
+    "stem": "1 1 8 16 7 21 4 16 2 10"
+  },
+  "107": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(6-n)<sup>3</sup>+6-n",
+    "stem": "130,68,30,10,2"
+  },
+  "1070": {
+    "answer": "100014",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2+1</sub>=A<sub>n\\*2-1</sub>\\*10; B<sub>n\\*2+1</sub>=B<sub>n\\*2-1</sub>+4;",
+    "stem": "12 41 106 8.1 10010 12.0 100014"
+  },
+  "1071": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>;",
+    "stem": "1 3 4 8 16 10"
+  },
+  "1072": {
+    "answer": "217",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= n^3+(-1)^n;",
+    "stem": "0 9 26 65 124 217"
+  },
+  "1073": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(10-n\\*2)^2+(-1)^(n+1);",
+    "stem": "65 35 17 3 1"
+  },
+  "1074": {
+    "answer": "122",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)^3-3;",
+    "stem": "-3 -2 5 24 61 122"
+  },
+  "1075": {
+    "answer": "120",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>=(A<sub>n+1</sub>+A<sub>n</sub>)\\*n;",
+    "stem": "1 1 2 6 24"
+  },
+  "1076": {
+    "answer": "2245",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n+n;",
+    "stem": "16 17 36 111 448 2245"
+  },
+  "1077": {
+    "answer": "325",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=8\\*3^(n-1);",
+    "stem": "5 13 37 109 325"
+  },
+  "1078": {
+    "answer": "140",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)^34\\*n-1;",
+    "stem": "11 34 75 140 235"
+  },
+  "1079": {
+    "answer": "120",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub> mod 9=6-n;",
+    "stem": "1 5 19 49 109 120"
+  },
+  "108": {
+    "answer": "252",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*n\\*(n+1)",
+    "stem": "2,12,36,80,150,252"
+  },
+  "1080": {
+    "answer": "142",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*3+5-n;",
+    "stem": "0 4 15 47 142"
+  },
+  "1081": {
+    "answer": "24391",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>^3+2;",
+    "stem": "-1 1 3 29 24391"
+  },
+  "1082": {
+    "answer": "116",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+2</sub>-A<sub>n+1</sub>=A<sub>n</sub>\\*(n+3);",
+    "stem": "2 5 13 38 116"
+  },
+  "1083": {
+    "answer": "71428",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+2;B<sub>n+1</sub>=B<sub>n</sub>+4;C<sub>n</sub>=B<sub>n</sub>\\*2;",
+    "stem": "124 3612 51020 71428"
+  },
+  "1084": {
+    "answer": "19/27",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>/(6\\*n-3); B<sub>n+2</sub>-B<sub>n</sub>=10-n;",
+    "stem": "1/3 5/9 2/3 13/21 19/27"
+  },
+  "1085": {
+    "answer": "344",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=2^(2\\*n-4)+A<sub>n-1</sub>;",
+    "stem": "3 4 8 24 88 344"
+  },
+  "1086": {
+    "answer": "50",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2-1</sub>=(n\\*2-1)^2+1;",
+    "stem": "2 3 10 15 26 75 50"
+  },
+  "1087": {
+    "answer": "129",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)^2+n;",
+    "stem": "9 29 67 129 221"
+  },
+  "1088": {
+    "answer": "126",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=4\\*2^n;",
+    "stem": "6 14 30 62 126"
+  },
+  "1089": {
+    "answer": "160",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=2^n\\*n;",
+    "stem": "2 8 24 64 160"
+  },
+  "109": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>5-n</sup>",
+    "stem": "1,8,9,4,1,1/6"
+  },
+  "1090": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=P(n);",
+    "stem": "20 22 25 30 37 48"
+  },
+  "1091": {
+    "answer": "102",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>=A<sub>n\\*2-1</sub>^2+2;",
+    "stem": "0 1 3 10 102"
+  },
+  "1092": {
+    "answer": "-115",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>^2-A<sub>n-1</sub>;",
+    "stem": "5 15 10 215"
+  },
+  "1093": {
+    "answer": "866",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>^2+A<sub>n-2</sub>^2;",
+    "stem": "1 2 5 29 866"
+  },
+  "1094": {
+    "answer": "56",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(2\\*n-1)\\*2\\*n;",
+    "stem": "2 12 30 56"
+  },
+  "11": {
+    "answer": "21, 23",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+2n\n\nA<sub>2n</sub>=A<sub>2n-1</sub>+2",
+    "stem": "1,3,3,5,7,9,13,15,21, 23,21, 23"
+  },
+  "110": {
+    "answer": "31",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5,17,21,25,31"
+  },
+  "111": {
+    "answer": "5/36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>/(n+5)\\*（2*n+8）",
+    "stem": "20/9, 4/3,7/9, 4/9, 1/4, 5/36"
+  },
+  "112": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>+4-n)/2",
+    "stem": "69,36,19,10,5,2"
+  },
+  "113": {
+    "answer": "180",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*n\\*(n-1)",
+    "stem": "0,4,18,48,100,180"
+  },
+  "114": {
+    "answer": "1/42",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1/\\[n\\*(n+1)\\]",
+    "stem": "1/2,1/6,1/12,1/20, 1/30,1/42"
+  },
+  "115": {
+    "answer": "-3",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=(A<sub>n</sub>-A<sub>n+1</sub>)/2",
+    "stem": "7,9,-1,5,-3"
+  },
+  "116": {
+    "answer": "1707",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*A<sub>n+1</sub>-5",
+    "stem": "3,7,16,107,1707"
+  },
+  "117": {
+    "answer": "30651",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub><sup>2</sup>+2A<sub>n</sub>",
+    "stem": "2,3,13,175,30651"
+  },
+  "118": {
+    "answer": "125.64",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1.16,8.25,27.36,64.49,125.64"
+  },
+  "119": {
+    "answer": "-1",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*A<sub>n+1</sub>",
+    "stem": "+1, -1,1, -1,-1"
+  },
+  "12": {
+    "answer": "100",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>\\*2+A<sub>n</sub>\\*3",
+    "stem": "1,2,8,28,100"
+  },
+  "120": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n",
+    "stem": "1,1,2,6,24"
+  },
+  "121": {
+    "answer": "226",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+3\\*\\[(n+1)<sup>2</sup>-n\\]",
+    "stem": "1,10,31,70,133,226"
+  },
+  "122": {
+    "answer": "185",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\n\nB<sub>n+1</sub>=B<sub>n</sub>+3<sup>n-1</sup>",
+    "stem": "0,1, 3, 8, 22,63,185"
+  },
+  "123": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "(2/3) (5/9) (6/12) (7/15)",
+    "stem": "23,59,12,715"
+  },
+  "124": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "2×9 = 18 ; 9×8 = 72",
+    "stem": "2,9,18,9,8,72"
+  },
+  "125": {
+    "answer": "290",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[(n-1)\\*n/2+2\\]<sup>2</sup>+1",
+    "stem": "5,10,26,65,145,290"
+  },
+  "126": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)<sup>4-n</sup>",
+    "stem": "27,16,5,1,1/7"
+  },
+  "127": {
+    "answer": "99",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>+2\\*A<sub>n+1</sub>",
+    "stem": "1,1,3,7,17,41,99"
+  },
+  "128": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*n",
+    "stem": "1, 1, 8, 16, 7, 21, 4, 16, 2, 10"
+  },
+  "129": {
+    "answer": "180",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)\\*n\\*n",
+    "stem": "0,4,18,48,100,180"
+  },
+  "13": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>-n<sup>2</sup>",
+    "stem": "0,4,18,48,100"
+  },
+  "130": {
+    "answer": "1/48",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>/2",
+    "stem": "1/6,1/6,1/12,1/24,1/48"
+  },
+  "131": {
+    "answer": "124/125",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1-1/5<sup>n-1</sup>",
+    "stem": "0,4/5,24/25,124/125"
+  },
+  "132": {
+    "answer": "-9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>3</sup>-1",
+    "stem": "1,0,-1,-2,-9"
+  },
+  "133": {
+    "answer": "11",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+n-1",
+    "stem": "0,0,1,4,11"
+  },
+  "134": {
+    "answer": "210",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>-n",
+    "stem": "0,6,24,60,120,210"
+  },
+  "135": {
+    "answer": "36, 33",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=34+n\n\nA<sub>2n</sub>=37-n",
+    "stem": "34,36,35,35,36, 33,34,37,36, 33"
+  },
+  "136": {
+    "answer": "515",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1,52,313,174,515"
+  },
+  "137": {
+    "answer": "4",
+    "category": "sequence",
+    "hint": "",
+    "stem": "6,7,3,0,3,3,6,9,5,4"
+  },
+  "138": {
+    "answer": "397",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1,393,3255,397"
+  },
+  "139": {
+    "answer": "67",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\n\nB<sub>n+1</sub>=B<sub>n</sub>+2<sup>n</sup>",
+    "stem": "17,24,33,46,67,92"
+  },
+  "14": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "A<sub>3n</sub>=A<sub>3n-1</sub>+1",
+    "stem": "1,1, 2, 2, 3, 4, 3, 5, 6"
+  },
+  "140": {
+    "answer": "178.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+88/2<sup>n-1</sup>",
+    "stem": "8,96,140,162,173,178.5"
+  },
+  "141": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=10-n\n\nA<sub>2n</sub>=13-2n",
+    "stem": "10,11,9,9,8,7,7,5,6"
+  },
+  "142": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=2<sup>n</sup>-A<sub>2n-1</sub>",
+    "stem": "1,1,3,1,3,5,6,10"
+  },
+  "143": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1,10,3,5,13"
+  },
+  "144": {
+    "answer": "255",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>+1)<sup>2</sup>-1",
+    "stem": "1,3,15,255"
+  },
+  "145": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1,4,3,6,5,2"
+  },
+  "146": {
+    "answer": "-4",
+    "category": "sequence",
+    "hint": "",
+    "stem": "14,4,3, -2,-4"
+  },
+  "147": {
+    "answer": "1/47",
+    "category": "sequence",
+    "hint": "",
+    "stem": "8/3,4/5,4/31,1/47"
+  },
+  "148": {
+    "answer": "29",
+    "category": "sequence",
+    "hint": "",
+    "stem": "59,40,48,29,37,18"
+  },
+  "149": {
+    "answer": "65",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub><sup>2</sup>+A<sub>n+1</sub>",
+    "stem": "1,2,3,7,16,65,191"
+  },
+  "15": {
+    "answer": "515",
+    "category": "sequence",
+    "hint": "\\[A<sub>n</sub>/10\\] mod n = 1",
+    "stem": "1,52, 313, 174,515"
+  },
+  "150": {
+    "answer": "4/11",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+3)/(4n+2)",
+    "stem": "2/3,1/2,3/7,7/18,4/11"
+  },
+  "151": {
+    "answer": "167",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub>+(4n-1)<sup>2</sup>\n\nA<sub>2n</sub>=A<sub>2n-1</sub>+(4n-3)<sup>2</sup>-1",
+    "stem": "5,5,14,38,87,167"
+  },
+  "152": {
+    "answer": "14641",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*11",
+    "stem": "11,121,1331,14641"
+  },
+  "153": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)\\*n\\*n",
+    "stem": "0,4,18,48,100"
+  },
+  "154": {
+    "answer": "7/25",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(22-3n)/(10+3n)",
+    "stem": "19/13,1,13/19,10/22,7/25"
+  },
+  "155": {
+    "answer": "130",
+    "category": "sequence",
+    "hint": "",
+    "stem": "12,16,112,120,130"
+  },
+  "156": {
+    "answer": "163",
+    "category": "sequence",
+    "hint": "",
+    "stem": "13,115,135,163"
+  },
+  "157": {
+    "answer": "33132",
+    "category": "sequence",
+    "hint": "",
+    "stem": "-12,34,178,21516,33132"
+  },
+  "158": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+3<sup>n-1</sup>",
+    "stem": "3,4,7,16,43,124"
+  },
+  "159": {
+    "answer": "20, 0",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>-2<sup>3-n</sup>\n\nA<sub>2n</sub>=A<sub>2n-2</sub>\\*2",
+    "stem": "7,5,3,10,1,20, 0,20, 0"
+  },
+  "16": {
+    "answer": "-115",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n</sub>",
+    "stem": "5, 15, 10, 215, -115"
+  },
+  "160": {
+    "answer": "104",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>+A<sub>n+1</sub>",
+    "stem": "81,23,104,127"
+  },
+  "161": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "59-48=11 43-32=11 28-17=11",
+    "stem": "48,32,17,28,43,59"
+  },
+  "162": {
+    "answer": "7/25",
+    "category": "sequence",
+    "hint": "分子+分母=22",
+    "stem": "19/13,1,19/13,10/22,7/25"
+  },
+  "163": {
+    "answer": "168",
+    "category": "sequence",
+    "hint": "",
+    "stem": "3,8,24,48,120,168"
+  },
+  "164": {
+    "answer": "105",
+    "category": "sequence",
+    "hint": "",
+    "stem": "21,27,36,51,72,105"
+  },
+  "165": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1/2,1,1,1,9/11,11/13"
+  },
+  "166": {
+    "answer": "19",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\n\nB<sub>n+2</sub>=B<sub>n</sub>+B<sub>n+1</sub>",
+    "stem": "2,3,5,7,11,19"
+  },
+  "167": {
+    "answer": "612",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,33,45,58,612"
+  },
+  "168": {
+    "answer": "5/36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=B<sub>n</sub>/36\n\nB<sub>n+1</sub>=B<sub>n</sub>-C<sub>n</sub>\n\nC<sub>n+1</sub>=C<sub>n</sub>-D<sub>n</sub>\n\nD<sub>n+1</sub>=D<sub>n</sub>+5-n",
+    "stem": "20/9,4/3,7/9,4/9,1/4,5/36"
+  },
+  "169": {
+    "answer": "29",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=5(n+1)+4-n",
+    "stem": "5,17, 21, 25,29"
+  },
+  "17": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-3)<sup>2</sup>+1",
+    "stem": "-7, 0, 1, 2, 9, 28"
+  },
+  "170": {
+    "answer": "44",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,4,3,9,5,20,7,44"
+  },
+  "171": {
+    "answer": "1/9",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=2/(2n+3)\n\nA<sub>2n</sub>=1/(n+1)<sup>2</sup>",
+    "stem": "2/3,1/4,2/5,1/9,2/7,1/16"
+  },
+  "172": {
+    "answer": "17",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=(n+1)<sup>2</sup>-A<sub>n+1</sub>-A<sub>n</sub>",
+    "stem": "1,2,1,6,9,10,17"
+  },
+  "173": {
+    "answer": "40.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*1.5",
+    "stem": "8,12,18,27,40.5"
+  },
+  "174": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub>/A<sub>n</sub>",
+    "stem": "1/2,1/6,1/3,2,6,3,1/2"
+  },
+  "175": {
+    "answer": "8.11",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1.01,2.02,3.04,5.07,8.11,13.16"
+  },
+  "176": {
+    "answer": "307",
+    "category": "sequence",
+    "hint": "2+5+6=13;256+13=269;2+6+9=17;269+17=286;2+8+6=16 286+16=302;3+0+2=5;302+5=307",
+    "stem": "256,269,286,302,307"
+  },
+  "177": {
+    "answer": "15131",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+2",
+    "stem": "1,3,11,123,15131"
+  },
+  "178": {
+    "answer": "2109",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub><sup>2</sup>-A<sub>n</sub>",
+    "stem": "1,2,3,7,46,2109"
+  },
+  "179": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=(A<sub>n+1</sub>+A<sub>n</sub>)/2",
+    "stem": "18,2,10,6,8,7"
+  },
+  "18": {
+    "answer": "102",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub><sup>2</sup>+2\n\nA<sub>2n</sub>=A<sub>2n-1</sub><sup>2</sup>+1",
+    "stem": "0,1,3,10,102"
+  },
+  "180": {
+    "answer": "730",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>3</sup>+1",
+    "stem": "-1,0,1,2,9,730"
+  },
+  "181": {
+    "answer": "120",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+n\\*(-1)<sup>n</sup>",
+    "stem": "0,10,24,68,120"
+  },
+  "182": {
+    "answer": "160",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=4\\*(A<sub>n+1</sub>-A<sub>n</sub>)",
+    "stem": "2,8,24,64,160"
+  },
+  "183": {
+    "answer": "14.4",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n/(n+1)",
+    "stem": "72, 36, 24, 18, 14.4"
+  },
+  "184": {
+    "answer": "7/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)/n",
+    "stem": "3,2,5/3,3/2,7/5"
+  },
+  "185": {
+    "answer": "889",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1,13, 45, 169, 889"
+  },
+  "186": {
+    "answer": "63",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n<sup>3</sup>+1)/2",
+    "stem": "1,9/2,14,65/2, 63, 217/2"
+  },
+  "187": {
+    "answer": "39",
+    "category": "sequence",
+    "hint": "",
+    "stem": "15,16,25,9,81,39"
+  },
+  "188": {
+    "answer": "66",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+2",
+    "stem": "3,10,29,66,127"
+  },
+  "189": {
+    "answer": "725",
+    "category": "sequence",
+    "hint": "(19,13),(16,16),(13,19),(10,22)",
+    "stem": "1913,1616,1319,1022,725"
+  },
+  "19": {
+    "answer": "63",
+    "category": "sequence",
+    "hint": "9/2, 28/2, 65/2, ( 126/2), 217/2\n\nA<sub>n</sub>=\\[(n+1)<sup>3</sup>+1\\]/2",
+    "stem": "9/2,14,65/2,63,217/2"
+  },
+  "190": {
+    "answer": "167",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+B<sub>n</sub>\n\nB<sub>2n+1</sub>=(4n+1)<sup>2</sup>-1\n\nB<sub>2n</sub>=(4n-1)<sup>2</sup>",
+    "stem": "5,5,14,38,87,167"
+  },
+  "191": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-2<sup>6-n</sup>-1",
+    "stem": "69, 36,19,10,5,2"
+  },
+  "192": {
+    "answer": "866",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+A<sub>n-1</sub><sup>2</sup>",
+    "stem": "1,2,5,29,866"
+  },
+  "193": {
+    "answer": "7/6",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>",
+    "stem": "1/3,1/6,1/2,2/3,7/6"
+  },
+  "194": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "",
+    "stem": "4,3,1,12,9,3,17,5,12"
+  },
+  "195": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>-15",
+    "stem": "19,4,18,3,16,1,17,2"
+  },
+  "196": {
+    "answer": "126",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2A<sub>n</sub>+2",
+    "stem": "23.6,14,30,62,126"
+  },
+  "197": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "40/10/4=1",
+    "stem": "24,12,2,2,3,14,2,7,1,18,3,2,3,40,10,1,4"
+  },
+  "198": {
+    "answer": "4414 B 6621 C.8828 D.4870847\nA:4870847",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>-2",
+    "stem": "3,7,47,2207,4414"
+  },
+  "199": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+3",
+    "stem": "4,11,30,67,128"
+  },
+  "2": {
+    "answer": "677",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+1",
+    "stem": "1,2,5,26,677"
+  },
+  "20": {
+    "answer": "120",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n",
+    "stem": "1,1,2,6,24,120"
+  },
+  "200": {
+    "answer": "50",
+    "category": "sequence",
+    "hint": "",
+    "stem": "22,24,27,32,39,50"
+  },
+  "201": {
+    "answer": "26/51",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n<sup>2</sup>+1)/51",
+    "stem": "2/51,5/51,10/51,17/51,26/51"
+  },
+  "202": {
+    "answer": "5/36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-A<sub>n-1</sub>/4",
+    "stem": "20/9,4/3,7/9,4/9,1/4,5/36"
+  },
+  "203": {
+    "answer": "198",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=2\\*A<sub>2n-1</sub>",
+    "stem": "23,46,48,96,54,108,99,198"
+  },
+  "204": {
+    "answer": "16.6",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1.1,2.2,4.3,7.4,11.5,16.6"
+  },
+  "205": {
+    "answer": "0.55",
+    "category": "sequence",
+    "hint": "能被 0.05 除尽",
+    "stem": "0.75,0.65,0.45,0.55"
+  },
+  "206": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(6-n)<sup>2</sup>",
+    "stem": "25,16,9,4"
+  },
+  "207": {
+    "answer": "5/26",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n/(n<sup>2</sup>+1)",
+    "stem": "1/2,2/5,3/10,4/17,5/26"
+  },
+  "208": {
+    "answer": "-162",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(-3)\\*A<sub>n</sub>",
+    "stem": "-2,6,-18,54,-162"
+  },
+  "209": {
+    "answer": "252",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*n\\*(n+1)",
+    "stem": "2,12,36,80,150,252"
+  },
+  "21": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n+2<sup>2n-4</sup>",
+    "stem": "3,4,8,24,88,344"
+  },
+  "210": {
+    "answer": "1020",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>n</sup>-n",
+    "stem": "0,6,78,1020,15620"
+  },
+  "211": {
+    "answer": "738",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(2n-1)<sup>3</sup>+2n-1",
+    "stem": "2,30,130,350,738"
+  },
+  "212": {
+    "answer": "-81",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n</sub>",
+    "stem": "-3, 9, 0, 81,-81"
+  },
+  "213": {
+    "answer": "11/14",
+    "category": "sequence",
+    "hint": "",
+    "stem": "3/7,5/8,5/9,8/11,7/11,11/14"
+  },
+  "214": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+4-n",
+    "stem": "1,2,4,6,9,13,18"
+  },
+  "215": {
+    "answer": "256",
+    "category": "sequence",
+    "hint": "16-1-6＝9＝9×1\n\n23-2-3＝18＝9×2\n\n32-3-2＝27＝9×3\n\n83-8-3＝72＝9×8\n\n256-2-5-6＝243＝9×27",
+    "stem": "16,23,32,83,256"
+  },
+  "216": {
+    "answer": "20/81",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*(1/3)\\*n",
+    "stem": "1/2,1/6,1/9,1/9,4/27,20/81"
+  },
+  "217": {
+    "answer": "75",
+    "category": "sequence",
+    "hint": "",
+    "stem": "13,23,35,44,54,63,75"
+  },
+  "218": {
+    "answer": "698",
+    "category": "sequence",
+    "hint": "",
+    "stem": "987,251,369,872,513,698"
+  },
+  "219": {
+    "answer": "117",
+    "category": "sequence",
+    "hint": "117＝108＋(1＋0＋8)",
+    "stem": "91,101,98,115,108,117"
+  },
+  "22": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "",
+    "stem": "20,22,25,30,37,48"
+  },
+  "220": {
+    "answer": "512",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^n\\*(n-2)",
+    "stem": "-1,0,27,512"
+  },
+  "221": {
+    "answer": "2245",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n+n",
+    "stem": "16,17,36,111,448,2245"
+  },
+  "222": {
+    "answer": "15",
+    "category": "sequence",
+    "hint": "",
+    "stem": "-2,-1,2,5,15,29"
+  },
+  "223": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "4-3=1=1<sup>3</sup>\n12-4=8=2<sup>3</sup>\n39-12=27=3<sup>3</sup>\n103-39=64=4<sup>3</sup>",
+    "stem": "3,4,12,39,103"
+  },
+  "224": {
+    "answer": "14",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(2n)<sup>2</sup>-n\\*(-1)<sup>n</sup>",
+    "stem": "5,14,39,60,105"
+  },
+  "225": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[(n-1)\\*n+1\\]/(9-2*n)",
+    "stem": "1/7,3/5,7/3,13"
+  },
+  "226": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*A<sub>n-1</sub>/(14-2*n)",
+    "stem": "10,12,12,18,36,162"
+  },
+  "227": {
+    "answer": "64",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>n-1</sup>",
+    "stem": "1,2,9,64,625"
+  },
+  "228": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=0.5\\*A<sub>n</sub>+A<sub>n-1</sub>",
+    "stem": "36, 12, 30, 36, 51, 69"
+  },
+  "229": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-3*(6-n)*(5-n)",
+    "stem": "120,60,24,6,0"
+  },
+  "23": {
+    "answer": "4/243",
+    "category": "sequence",
+    "hint": "1/9,2/27,3/81,4/243\n\nA<sub>n</sub>=n\n\nB<sub>n</sub>=3<sup>n+1</sup>",
+    "stem": "1/9,2/27,1/27"
+  },
+  "230": {
+    "answer": "1/63",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1/(4*n<sup>2</sup>-1)",
+    "stem": "1/3,1/15,1/35,1/63"
+  },
+  "231": {
+    "answer": "16",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(9-n)<sup>n-3</sup>",
+    "stem": "1/64,1/7,1,5,16"
+  },
+  "232": {
+    "answer": "122",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>-3",
+    "stem": "-2,5,24,61,122"
+  },
+  "233": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*\\[n/(n+1)\\]",
+    "stem": "60,30,20,15,12,10"
+  },
+  "234": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*(6-n)",
+    "stem": "1/5,1,4,12,24,24"
+  },
+  "235": {
+    "answer": "0",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3*(6-n)/n<sup>2</sup>",
+    "stem": "15,3,1,3/8,3/25,0"
+  },
+  "236": {
+    "answer": "34",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>+A<sub>n-2</sub>-2",
+    "stem": "1,3,4,6,11,19,34"
+  },
+  "237": {
+    "answer": "35",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2A<sub>n</sub>-A<sub>n-1</sub>+3<sup>n-2</sup>",
+    "stem": "13,14,16,21,35,76"
+  },
+  "238": {
+    "answer": "56",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n<sup>2</sup>",
+    "stem": "1,2,6,15,31,56"
+  },
+  "239": {
+    "answer": "139",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+9",
+    "stem": "103,112,121,130,139"
+  },
+  "24": {
+    "answer": "3√14",
+    "category": "sequence",
+    "hint": "√(n<sup>3</sup>+1)",
+    "stem": "√2,3,√28,√65,3√14"
+  },
+  "240": {
+    "answer": "-59",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>-A<sub>n</sub>+n-1",
+    "stem": "57, 22, 36, -12, 51, -59"
+  },
+  "241": {
+    "answer": "81",
+    "category": "sequence",
+    "hint": "9,4,3,4,9",
+    "stem": "9,4,3,40,81"
+  },
+  "242": {
+    "answer": "75",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>\\*A<sub>n</sub>-n+1",
+    "stem": "1,3,2,4,5,16,75"
+  },
+  "243": {
+    "answer": "17",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=n<sup>2</sup>-A<sub>n-1</sub>-A<sub>n</sub>",
+    "stem": "1,2,1,6,9,10,17"
+  },
+  "244": {
+    "answer": "1/42",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1/(n\\*(n+1))",
+    "stem": "1/2,1/6,1/12,1/20,1/30,1/42"
+  },
+  "245": {
+    "answer": "22",
+    "category": "sequence",
+    "hint": "",
+    "stem": "13, 14, 16, 21,22, 76"
+  },
+  "246": {
+    "answer": "44",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1, 2, 2, 6, 3, 15, 3, 21, 4,44"
+  },
+  "247": {
+    "answer": "47",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "3, 2, 3, 7, 18, 47"
+  },
+  "248": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n<sup>3</sup>",
+    "stem": "4,5,9,40,104"
+  },
+  "249": {
+    "answer": "199",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=n\\*A<sub>n</sub>-1",
+    "stem": "10,9,17,50,199"
+  },
+  "25": {
+    "answer": "32",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2",
+    "stem": "1,2,4,8,16,32"
+  },
+  "250": {
+    "answer": "229",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(n+1)<sup>3</sup>+1",
+    "stem": "1, 10, 38, 103,229"
+  },
+  "251": {
+    "answer": "169",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=B<sub>n</sub><sup>2</sup>+n-5\nB<sub>n</sub>=2,5,7,11,13,17",
+    "stem": "0,22,47,120,169,290"
+  },
+  "252": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(n+1)<sup>3</sup>+3",
+    "stem": "11,30,67,128"
+  },
+  "253": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(-1)<sup>n</sup>\\*3\\*2<sup>n</sup>",
+    "stem": "102,96,108,84,132,36"
+  },
+  "254": {
+    "answer": "8, 12",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=120/A<sub>2n-1</sub>",
+    "stem": "5,24,6,20,8, 12,15,10,8, 12"
+  },
+  "255": {
+    "answer": "140",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>3</sup>+4n-1",
+    "stem": "11,34,75,140,235"
+  },
+  "256": {
+    "answer": "2245",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=n\\*A<sub>n</sub>+n",
+    "stem": "16,17,36,111,448,2245"
+  },
+  "258": {
+    "answer": "98",
+    "category": "sequence",
+    "hint": "56-5-6=45=5×9\n\n66-6-6=54=6×9\n\n78-7-8=63=7×9\n\n82-8-2=72=8×9\n\n98-9-8=81=9×9",
+    "stem": "56, 66, 78, 82,98"
+  },
+  "259": {
+    "answer": "889",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1, 13, 45, 169, 889"
+  },
+  "26": {
+    "answer": "2/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2/n",
+    "stem": "2,1,2/3,1/2,2/5"
+  },
+  "260": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,5,20,12,-8,7,10"
+  },
+  "261": {
+    "answer": "29",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>-19\n\nA<sub>2n+1</sub>=A<sub>2n-1</sub>+8",
+    "stem": "59, 40, 48,29,37, 18"
+  },
+  "262": {
+    "answer": "17/27",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1/3, 5/9, 2/3, 13/21, 17/27"
+  },
+  "263": {
+    "answer": "1/2",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)/(3n)",
+    "stem": "1, 2/3, 5/9, 1/2, 7/15, 4/9, 4/9"
+  },
+  "264": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-3)<sup>3</sup>+1",
+    "stem": "-7,0,1,2,9,28"
+  },
+  "265": {
+    "answer": "182",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=5\\*A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "2,2,8,38,182"
+  },
+  "266": {
+    "answer": "-28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(5-n)<sup>3</sup>-1",
+    "stem": "63,26,7,0,-1,-2,-9,-28"
+  },
+  "267": {
+    "answer": "55",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "0,1,3,8,21,55"
+  },
+  "268": {
+    "answer": "150",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=3\\*n\\*10<sup>n-4</sup>",
+    "stem": "0.003,0.06,0.9,12,150"
+  },
+  "269": {
+    "answer": "121",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+A<sub>n-1</sub>",
+    "stem": "1,7,8,57,121"
+  },
+  "27": {
+    "answer": "99",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>+A<sub>n</sub>\\*2",
+    "stem": "1,1,3,7,17,41,99"
+  },
+  "270": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>+A<sub>n-1</sub>)/2",
+    "stem": "4,12,8,10,9"
+  },
+  "271": {
+    "answer": "216",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>\\*A<sub>n-1</sub>)/2",
+    "stem": "3,4,6,12,36,216"
+  },
+  "272": {
+    "answer": "181",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+16n+4",
+    "stem": "5,25,61,113,181"
+  },
+  "273": {
+    "answer": "142",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>+5-n",
+    "stem": "0,4,15,47,142"
+  },
+  "274": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n</sub>",
+    "stem": "5,6,19,17,344,-55"
+  },
+  "275": {
+    "answer": "167",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(2n-1)<sup>2</sup>-1",
+    "stem": "5,5,14,38,87,167"
+  },
+  "276": {
+    "answer": "65",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+A<sub>n-1</sub>",
+    "stem": "1,2,3,7,16,65"
+  },
+  "277": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "4/9 × 36 =16\n\n1 × 12 =12\n\n4/3 × x =8",
+    "stem": "4/9, 1, 4/3, 6, 12, 36"
+  },
+  "278": {
+    "answer": "227",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+A<sub>n-1</sub>",
+    "stem": "2, 7, 16, 39, 94,227"
+  },
+  "279": {
+    "answer": "14",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-4)<sup>3</sup>+n",
+    "stem": "-26, -6, 2, 4, 6,14"
+  },
+  "28": {
+    "answer": "525/4",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*(0.5n+1.5)",
+    "stem": "5/2,5,25/2,75/2,525/4"
+  },
+  "280": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>11-2n</sup>",
+    "stem": "1, 128, 243, 64,5"
+  },
+  "281": {
+    "answer": "2109",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>-A<sub>n-1</sub>",
+    "stem": "1,2,3,7,46,2109"
+  },
+  "282": {
+    "answer": "185",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>-n+2",
+    "stem": "0,1,3,8,22,63,185"
+  },
+  "283": {
+    "answer": "82",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=4\\*A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "2, 2, 6, 22, 82"
+  },
+  "284": {
+    "answer": "23",
+    "category": "sequence",
+    "hint": "",
+    "stem": "11,13,17,19,23"
+  },
+  "285": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=0.5\\*A<sub>n</sub>+A<sub>n-1</sub>",
+    "stem": "36,12,30,36,51,69"
+  },
+  "286": {
+    "answer": "104",
+    "category": "sequence",
+    "hint": "",
+    "stem": "20, 26, 35, 50, 71, 104"
+  },
+  "287": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>8-n</sup>-1",
+    "stem": "-1, 0, 31, 80, 63, 24, 5"
+  },
+  "288": {
+    "answer": "18",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=n<sup>2</sup>-A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "2, 2, 0, 7, 9, 9, 18"
+  },
+  "289": {
+    "answer": "107",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>-A<sub>n-2</sub>",
+    "stem": "3,29,55,81,107"
+  },
+  "29": {
+    "answer": "163",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2+2n+1",
+    "stem": "6,15,35,77,163"
+  },
+  "290": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "87:8×7+1=57\n\n57:5×7+1=36\n\n36:3×6+1=19\n\n19:1×9+1=10\n\n10:1×0+1=1",
+    "stem": "87, 57, 36, 19, 10, 1"
+  },
+  "291": {
+    "answer": "30651",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+2A<sub>n-1</sub>",
+    "stem": "2, 3, 13, 175, 30651"
+  },
+  "292": {
+    "answer": "2.0201",
+    "category": "sequence",
+    "hint": "6×6+1=37\n\n9×9+1=82\n\n0×0+1=1\n\n1.01×1.01+1=2.0201",
+    "stem": "6,37,9,82,0,1,1.01,2.0201"
+  },
+  "293": {
+    "answer": "20295",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*A<sub>n-1</sub>-1",
+    "stem": "3,4,11,43,472,20295"
+  },
+  "294": {
+    "answer": "7085",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n-1</sub>",
+    "stem": "5,10,15,85,140,7085"
+  },
+  "295": {
+    "answer": "1/7",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(11-2n)/(n+2)",
+    "stem": "3,7/4,1,1/2,1/7"
+  },
+  "296": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=3\\*A<sub>2n-1</sub>",
+    "stem": "2,6,13,39,15,45,23,69"
+  },
+  "297": {
+    "answer": "123",
+    "category": "sequence",
+    "hint": "",
+    "stem": "33,22,53,72,123"
+  },
+  "299": {
+    "answer": "-111",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>-5<sup>n-2</sup>",
+    "stem": "14,2,15,12,2,-111"
+  },
+  "3": {
+    "answer": "56",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2n\\*(2n-1)",
+    "stem": "2,12,30,56"
+  },
+  "30": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+2<sup>n</sup>\n\nA<sub>2n</sub>=A<sub>2n-2</sub>+3\\*2<sup>n-2</sup>",
+    "stem": "1,3,3,6,7,12,15,24"
+  },
+  "300": {
+    "answer": "121√5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*√11",
+    "stem": "√5,√55,11√5,11√55,121√5"
+  },
+  "301": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*A<sub>n-1</sub>+1",
+    "stem": "0,1,1,2,3, 7,22"
+  },
+  "302": {
+    "answer": "27",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>+8-n",
+    "stem": "0,2,8,15,27"
+  },
+  "303": {
+    "answer": "-84",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>-A<sub>n</sub>",
+    "stem": "57,66,-9,75,-84"
+  },
+  "304": {
+    "answer": "19",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2<sup>4-n</sup>\\*A<sub>n-1</sub>+A<sub>n</sub>",
+    "stem": "2,1,6,13,19"
+  },
+  "305": {
+    "answer": "23.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>+0.5\\*A<sub>n</sub>",
+    "stem": "4,12,14,19,23.5"
+  },
+  "307": {
+    "answer": "45",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\n\nB<sub>n+1</sub>=B<sub>n</sub>\\*B<sub>n-1</sub>",
+    "stem": "2, 3, 6, 9, 18, 45"
+  },
+  "308": {
+    "answer": "34",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\n\nB<sub>n+1</sub>=B<sub>n</sub>+B<sub>n-1</sub>+B<sub>n-2</sub>",
+    "stem": "1, 3, 4, 6, 11, 19, 34"
+  },
+  "309": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-2)<sup>3</sup>+1",
+    "stem": "0, 1, 2, 9, 28"
+  },
+  "31": {
+    "answer": "4/11",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+3)/(4n+2)",
+    "stem": "2/3,1/2,3/7,7/18,4/11"
+  },
+  "310": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2<sup>n-1</sup>-3",
+    "stem": "-2, -1, 1, 5,13,29"
+  },
+  "311": {
+    "answer": "55",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>2</sup>+(-1)<sup>n</sup>\\*n",
+    "stem": "3,11,13,29,31,55"
+  },
+  "312": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>+4-n)/2",
+    "stem": "69, 36, 19, 10, 5, 2"
+  },
+  "313": {
+    "answer": "2.3",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=8-A<sub>2n-1</sub>",
+    "stem": "4.5,3.5,2.8,5.2,4.4,3.6,5.7,2.3"
+  },
+  "314": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+3",
+    "stem": "4, 11, 30, 67,128"
+  },
+  "315": {
+    "answer": "5/64",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-A<sub>n-1</sub>\\*A<sub>n-2</sub>",
+    "stem": "1/4,1/4,1/4,3/16,1/8,5/64"
+  },
+  "316": {
+    "answer": "227",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2A<sub>n</sub>+A<sub>n-1</sub>",
+    "stem": "2,7,16,39,94,227"
+  },
+  "317": {
+    "answer": "-9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2<sup>6-n</sup>-A<sub>n</sub>",
+    "stem": "11,21,-5,13,-9"
+  },
+  "318": {
+    "answer": "28/12",
+    "category": "sequence",
+    "hint": "",
+    "stem": "133/57, 119/51, 91/39, 49/21, 28/12, 7/3"
+  },
+  "319": {
+    "answer": "364",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>2</sup>+3",
+    "stem": "1,4,19,364"
+  },
+  "32": {
+    "answer": "-9",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(5-n)<sup>3</sup>-1",
+    "stem": "63,26,7,0,-1,-2,-9"
+  },
+  "320": {
+    "answer": "17",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5, 8, -4, 9, 17, 30, 18, 21"
+  },
+  "321": {
+    "answer": "16",
+    "category": "sequence",
+    "hint": "",
+    "stem": "6, 4, 8, 9, 12, 9, 16, 26, 30"
+  },
+  "322": {
+    "answer": "187",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>+n<sup>2</sup>",
+    "stem": "1, 4, 16, 57, 187"
+  },
+  "323": {
+    "answer": "39",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>2</sup>+3\\*(-1)<sup>n</sup>",
+    "stem": "-2,7,6,19,22,39"
+  },
+  "324": {
+    "answer": "122",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>3</sup>-3",
+    "stem": "-3,-2,5,24,61,122"
+  },
+  "325": {
+    "answer": "5/36",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=4(n+4)/(9\\*2<sup>n-1</sup>)",
+    "stem": "20/9,4/3,7/9,4/9,1/4,5/36"
+  },
+  "326": {
+    "answer": "122",
+    "category": "sequence",
+    "hint": "",
+    "stem": "7,9,40,41,1559,122"
+  },
+  "327": {
+    "answer": "4.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n-1</sub>+A<sub>n</sub>)/2",
+    "stem": "2,6,4,5,4.5"
+  },
+  "328": {
+    "answer": "39",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>\\*2+A<sub>n</sub>\\*3",
+    "stem": "0,1,3,11,39"
+  },
+  "329": {
+    "answer": "-7",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n</sub>",
+    "stem": "2, 3, 1, 8, -7"
+  },
+  "33": {
+    "answer": "37",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>+A<sub>n-2</sub>",
+    "stem": "1,2,3,6,11,20,37"
+  },
+  "330": {
+    "answer": "18",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-2)<sup>2</sup>+2",
+    "stem": "-3,2, 3, 6, 11, 18"
+  },
+  "331": {
+    "answer": "292",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub><sup>2</sup>+3\n\nA<sub>2n</sub>=A<sub>2n-1</sub><sup>2</sup>-1",
+    "stem": "0,-1,4,17,292"
+  },
+  "332": {
+    "answer": "124/3",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[(n+1)<sup>3</sup>-1\\]/3",
+    "stem": "7/3,26/3,21,124/3,215/3"
+  },
+  "333": {
+    "answer": "-28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(5-n)<sup>3</sup>-1",
+    "stem": "63,26,7,0,-1,-2,-9,-28"
+  },
+  "334": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=n<sup>2</sup>/A<sub>2n-1</sub>",
+    "stem": "1/2,2,6,2/3,9,1,8,2"
+  },
+  "335": {
+    "answer": "1/2",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)/3n",
+    "stem": "1, 2/3, 5/9, 1/2, 7/15, 4/9"
+  },
+  "336": {
+    "answer": "1296",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>1</sub>\\*A<sub>2</sub>...\\*A<sub>n-1</sub>",
+    "stem": "2,3,6,36,1296"
+  },
+  "337": {
+    "answer": "140",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>3</sup>+4n-1",
+    "stem": "11,34,75,140,235"
+  },
+  "338": {
+    "answer": "16",
+    "category": "sequence",
+    "hint": "",
+    "stem": "6, 4, 8, 9,12, 9,16, 26, 30"
+  },
+  "339": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>11-2n</sup>",
+    "stem": "1, 128, 243, 64, 5"
+  },
+  "34": {
+    "answer": "65",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub><sup>2</sup>",
+    "stem": "1,2,3,7,16,65"
+  },
+  "340": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>2</sup>-(n-2)<sup>2</sup>",
+    "stem": "0,1,3,5,7,9"
+  },
+  "341": {
+    "answer": "326",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n+1",
+    "stem": "1,2,5,16,65,326"
+  },
+  "342": {
+    "answer": "168",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*n+2<sup>n-1</sup>",
+    "stem": "4,5,12,40,168"
+  },
+  "343": {
+    "answer": "26",
+    "category": "sequence",
+    "hint": "",
+    "stem": "8,10,14,18,26"
+  },
+  "344": {
+    "answer": "252",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+2\\*3<sup>n-1</sup>",
+    "stem": "10,12,18,36,90,252"
+  },
+  "345": {
+    "answer": "37",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(-1)<sup>n</sup>\\*(3\\*2<sup>n</sup>+1)",
+    "stem": "3,-2,11,-12,37"
+  },
+  "346": {
+    "answer": "30",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,4,7,12,19,30"
+  },
+  "347": {
+    "answer": "4/81",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n/3<sup>n</sup>",
+    "stem": "1/3,2/9,1/9,4/81"
+  },
+  "348": {
+    "answer": "31",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2+1",
+    "stem": "1,3,7,15,31"
+  },
+  "349": {
+    "answer": "1/8",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2/(3n+1)",
+    "stem": "1/2,2/7,1/5,2/13,1/8"
+  },
+  "35": {
+    "answer": "138",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>+(2n+2)<sup>2</sup>-3",
+    "stem": "2,15,7,40,77,138"
+  },
+  "350": {
+    "answer": "70",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>+A<sub>n</sub>\\*2",
+    "stem": "0,1,2,5,12,29,70"
+  },
+  "351": {
+    "answer": "165",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2+2n-1",
+    "stem": "8,17,37,79,165"
+  },
+  "352": {
+    "answer": "8/19",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+3)/(3n+4)",
+    "stem": "4/7,1/2,6/13,7/16,8/19"
+  },
+  "353": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[n\\*(n-1)/2\\]<sup>2</sup>+4",
+    "stem": "4,5,13,40,104"
+  },
+  "354": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>+A<sub>n</sub>-1",
+    "stem": "1,2,2,3,4,6,9"
+  },
+  "355": {
+    "answer": "29",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>+A<sub>n-2</sub>-1",
+    "stem": "1,2,3,5,9,16,29"
+  },
+  "356": {
+    "answer": "53",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2A<sub>n</sub>+A<sub>n-1</sub><sup>2</sup>",
+    "stem": "0,1,2,5,14,53"
+  },
+  "357": {
+    "answer": "162",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(2n-1)<sup>2</sup>-1",
+    "stem": "2,2,10,34,82,162"
+  },
+  "358": {
+    "answer": "32",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*(n+1)+2",
+    "stem": "4,8,14,22,32"
+  },
+  "359": {
+    "answer": "212",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>-n+2",
+    "stem": "2,8,26,62,122,212"
+  },
+  "36": {
+    "answer": "30",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*(n+1)",
+    "stem": "2,6,12,20,30"
+  },
+  "360": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*(2n-1)",
+    "stem": "1,6,15,28"
+  },
+  "361": {
+    "answer": "50",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub>=(2n-1)<sup>2</sup>+1\n\nA<sub>2n</sub>=3\\*5<sup>n-1</sup>",
+    "stem": "2,3,10,15,26,75,50"
+  },
+  "362": {
+    "answer": "-219",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-B<sub>n</sub>\n\nB<sub>n+1</sub>=B<sub>n</sub>+B<sub>n-1</sub>",
+    "stem": "129,107,73,17,-73,-219"
+  },
+  "363": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*2",
+    "stem": "1,3,5,10,18,36"
+  },
+  "364": {
+    "answer": "50",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-3)\\*n<sup>2</sup>",
+    "stem": "-2,-4,0,15,50"
+  },
+  "365": {
+    "answer": "171",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(n-1)\\*n<sup>2</sup>",
+    "stem": "1,1,5,23,71,171"
+  },
+  "366": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(9-2n)<sup>2</sup>+(-1)<sup>n</sup>",
+    "stem": "48,26,8,2"
+  },
+  "367": {
+    "answer": "664",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub><sup>2</sup>",
+    "stem": "2,4, 8, 24, 88,664"
+  },
+  "368": {
+    "answer": "-1",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=5<sup>4-n</sup>-5+(-1)<sup>n</sup>",
+    "stem": "119,21,-1,-3"
+  },
+  "369": {
+    "answer": "58",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>-(-1)<sup>n</sup>",
+    "stem": "1, 4, 4, 9, 12, 23, 36, 58"
+  },
+  "37": {
+    "answer": "210",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>-n",
+    "stem": "0,6,24,60,120,210"
+  },
+  "370": {
+    "answer": "20",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=4(n-1)+n-1",
+    "stem": "0,5,10,15,20"
+  },
+  "371": {
+    "answer": "2, 24",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub>=√n\n\nA<sub>2n</sub>=3\\*2<sup>n-1</sup>",
+    "stem": "0,3,1,6,√2,12,2, 24,2, 24,2,48"
+  },
+  "372": {
+    "answer": "1112",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n-1</sub>+A<sub>n</sub>)\\*3+2",
+    "stem": "1,5,20,77,293,1112"
+  },
+  "373": {
+    "answer": "102",
+    "category": "sequence",
+    "hint": "",
+    "stem": "20,24,30,40,54,76,102"
+  },
+  "374": {
+    "answer": "5.2",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2.6,5.2,5.2,7.8,7.8,5.2,5.2"
+  },
+  "375": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+4<sup>n-2</sup>",
+    "stem": "2,4,8,24,88,344"
+  },
+  "376": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>2</sup>-A<sub>n-1</sub>+n",
+    "stem": "9,2,19,10,31,24"
+  },
+  "377": {
+    "answer": "74",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+(n-1)<sup>3</sup>",
+    "stem": "1,1,2,10,74"
+  },
+  "378": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+n",
+    "stem": "5,6,14,24,43,73"
+  },
+  "379": {
+    "answer": "225",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n<sup>3</sup>+(-1)<sup>n</sup>",
+    "stem": "1,1,10,36,101,225"
+  },
+  "38": {
+    "answer": "56",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2n\\*(2n-1)",
+    "stem": "2,12,30,56"
+  },
+  "380": {
+    "answer": "13/64",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(2n+3)/2<sup>n+1</sup>",
+    "stem": "5/4,7/8,9/16,11/32,13/64,15/128"
+  },
+  "381": {
+    "answer": "342",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+2<sup>2n</sup>",
+    "stem": "2,6,22,86,342"
+  },
+  "382": {
+    "answer": "613",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,33,45,58,613"
+  },
+  "383": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+3<sup>n-1</sup>",
+    "stem": "3, 4, 7, 16, 43, 124"
+  },
+  "384": {
+    "answer": "55",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>2</sup>+(-1)<sup>n</sup>\\*n",
+    "stem": "3, 11, 13, 29, 31, 55"
+  },
+  "385": {
+    "answer": "730",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub><sup>3</sup>+1",
+    "stem": "-1,0,1,2,9,730"
+  },
+  "386": {
+    "answer": "168",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+4\\*3<sup>n-1</sup>",
+    "stem": "8, 12, 24, 60, 168"
+  },
+  "387": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=0.5\\*A<sub>n-1</sub>+A<sub>n</sub>",
+    "stem": "36,12,30,36,51,69"
+  },
+  "388": {
+    "answer": "21",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5,9,15,17,21"
+  },
+  "389": {
+    "answer": "8",
+    "category": "sequence",
+    "hint": "7×7=49;4×9=36;3×6=18",
+    "stem": "77,49,36,18,8"
+  },
+  "39": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*2",
+    "stem": "1,2,3,6,12,24"
+  },
+  "390": {
+    "answer": "197",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+A<sub>n-1</sub>+A<sub>n-2</sub>",
+    "stem": "10,11,13,34,58,105,197"
+  },
+  "391": {
+    "answer": "34",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2A<sub>n</sub>+2-A<sub>n-1</sub>",
+    "stem": "16,17,19,22,27,34,45"
+  },
+  "392": {
+    "answer": "50",
+    "category": "sequence",
+    "hint": "",
+    "stem": "8,17,24,35,50"
+  },
+  "393": {
+    "answer": "√3",
+    "category": "sequence",
+    "hint": "",
+    "stem": "1/2,0.866,0.577,√3"
+  },
+  "394": {
+    "answer": "17/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(3n+2)/n",
+    "stem": "5,4,11/3,7,17/5"
+  },
+  "395": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>8-n</sup>-1",
+    "stem": "-1,0,31,80,63,24,5"
+  },
+  "396": {
+    "answer": "116",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(n+2)\\*A<sub>n-1</sub>+A<sub>n</sub>",
+    "stem": "2, 5, 13, 38, 116"
+  },
+  "397": {
+    "answer": "137",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)^3+3n",
+    "stem": "11,33,73,137,231"
+  },
+  "398": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "An=60/n",
+    "stem": "60,30,20,15,12,10"
+  },
+  "399": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)^3-3",
+    "stem": "-3,-2,5,24,61,122"
+  },
+  "4": {
+    "answer": "2/5",
+    "category": "sequence",
+    "hint": "4/2, 4/4, 4/6, 4/8\n\nA<sub>n</sub>=2n",
+    "stem": "2,1,2/3,1/2,2/5"
+  },
+  "40": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*2",
+    "stem": "1,3,6,12,24"
+  },
+  "400": {
+    "answer": "29",
+    "category": "sequence",
+    "hint": "",
+    "stem": "11,13,17,19,23,29"
+  },
+  "401": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>-4)/2",
+    "stem": "172,84,40,18,7"
+  },
+  "402": {
+    "answer": "74",
+    "category": "sequence",
+    "hint": "",
+    "stem": "17,28,35,45,53,64,74"
+  },
+  "403": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "",
+    "stem": "12345,1235,124,12,1"
+  },
+  "404": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub>+A<sub>n</sub>+A<sub>n-2</sub>-(n-1)(n-2)/2",
+    "stem": "1, 2, 4, 6, 9, 13, 18"
+  },
+  "405": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=3^(5-n)+3(n-1)",
+    "stem": "81,30,15,12,13"
+  },
+  "406": {
+    "answer": "21",
+    "category": "sequence",
+    "hint": "奇数",
+    "stem": "5,9,15,17,21"
+  },
+  "407": {
+    "answer": "187",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>+n^2",
+    "stem": "1,4,16,57,187"
+  },
+  "408": {
+    "answer": "1/32",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*B<sub>n</sub>,A<sub>1</sub>=1\n\nB<sub>n</sub>=B<sub>n-1</sub>*C<sub>n-1</sub>,B<sub>1</sub>=2\n\nC<sub>n</sub>=(1/2)^(n-1)",
+    "stem": "1,2,4,4,1,1/32"
+  },
+  "409": {
+    "answer": "422",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>+n+1",
+    "stem": "4,14,45,139,422"
+  },
+  "41": {
+    "answer": "250",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-3)\\*n<sup>3</sup>",
+    "stem": "-2,-8,0,64,250"
+  },
+  "410": {
+    "answer": "37",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n\\*(n-1)/2",
+    "stem": "2,2,3,6,12,22,37"
+  },
+  "411": {
+    "answer": "-9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n<sub><sup>3</sup>-1",
+    "stem": "1,0,-1,-2,-9"
+  },
+  "412": {
+    "answer": "137/60",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+B<sub>n</sub>\nB<sub>n</sub>=1/(n+1)",
+    "stem": "1,3/2,11/6,25/12,137/60"
+  },
+  "413": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub>+2-A<sub>2n-1</sub>",
+    "stem": "1,2,3,5,4,4,2,2,2"
+  },
+  "414": {
+    "answer": "57",
+    "category": "sequence",
+    "hint": "",
+    "stem": "11,22,33,45,57,71"
+  },
+  "415": {
+    "answer": "1/2",
+    "category": "sequence",
+    "hint": "An=1/(√(6-n)+1)",
+    "stem": "0.31,1/3,0.366,0.414,1/2"
+  },
+  "416": {
+    "answer": "17",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5,8,-4,9,17,30,18,21"
+  },
+  "417": {
+    "answer": "22",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-2)^3-n",
+    "stem": "-2,-2,-2,4,22,58"
+  },
+  "418": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>1</sub>+...+A<sub>n</sub>+2",
+    "stem": "1, 3, 6, 12,24"
+  },
+  "419": {
+    "answer": "47",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>-A<sub>n-1</sub>",
+    "stem": "3,2,3,7,18,47"
+  },
+  "42": {
+    "answer": "-219",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>-B<sub>n</sub>\n\nB<sub>n+1</sub>= B<sub>n</sub>+B<sub>n-1</sub>",
+    "stem": "129,107,73,17,-73,-219"
+  },
+  "420": {
+    "answer": "158",
+    "category": "sequence",
+    "hint": "",
+    "stem": "512,13,34,1312,158,3512"
+  },
+  "421": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "(5+8)×2＝26",
+    "stem": "58,26,16,14,10"
+  },
+  "422": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "",
+    "stem": "3,1,4,1,5,9,2,6"
+  },
+  "423": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "",
+    "stem": "15,5,3,9,14,2,7,49,18,3,2,12"
+  },
+  "424": {
+    "answer": "26",
+    "category": "sequence",
+    "hint": "",
+    "stem": "8, 10, 14, 18,26"
+  },
+  "425": {
+    "answer": "441",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[(2n-4)(2n-3)/2\\]^2",
+    "stem": "1, 0, 9, 100, 441"
+  },
+  "426": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=0.5\\*(n+1)\\*A<sub>n-1</sub>",
+    "stem": "8,8,12,16,30,48"
+  },
+  "427": {
+    "answer": "414",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,3,28,65,414"
+  },
+  "428": {
+    "answer": "57",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(n+2)^2-1",
+    "stem": "10,18,33,57,92"
+  },
+  "429": {
+    "answer": "11024",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>\\*A<sub>n-1</sub>)^2-1",
+    "stem": "1,2,3,35,11024"
+  },
+  "43": {
+    "answer": "180",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)\\*n<sup>2</sup>",
+    "stem": "0,4,18,48,100,180"
+  },
+  "430": {
+    "answer": "27",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+n+3\nA<sub>2n</sub>=9n",
+    "stem": "4,9,8,18,13,27"
+  },
+  "431": {
+    "answer": "27",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-(13-n)",
+    "stem": "60,48,37,27,18"
+  },
+  "432": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "",
+    "stem": "2,10,6,5,3,15"
+  },
+  "433": {
+    "answer": "3",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-(6-n)^2+(-1)^n",
+    "stem": "59,33,18,8,5,3"
+  },
+  "434": {
+    "answer": "28/12",
+    "category": "sequence",
+    "hint": "An=7/3",
+    "stem": "133/57,119/51,91/39,49/21,28/12,7/3"
+  },
+  "435": {
+    "answer": "581",
+    "category": "sequence",
+    "hint": "An=\\[6(n-1)\\]^2+5",
+    "stem": "5,41,149,329,581"
+  },
+  "436": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "",
+    "stem": "20,4,5,16,2,8,4,4,7,9,21,3"
+  },
+  "437": {
+    "answer": "1/4",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(3n+1)/(2^(n+1))",
+    "stem": "1, 7/8, 5/8, 13/32, 1/4,19/128"
+  },
+  "438": {
+    "answer": "336",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub>=(2n-1)^3-(2n-1)\n\nA<sub>2n</sub>=2n+10",
+    "stem": "0,12,24,14,120,16,336"
+  },
+  "439": {
+    "answer": "37",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=8n+3+A<sub>n-1</sub>-A<sub>n</sub>",
+    "stem": "11,13,17,23,29,37"
+  },
+  "44": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(10-2n)<sup>2</sup>+(-1)<sup>n+1</sup>",
+    "stem": "65,35,17,3,1"
+  },
+  "440": {
+    "answer": "260",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=3\\*A<sub>n</sub>+n+1",
+    "stem": "2, 8,27,85, 260"
+  },
+  "441": {
+    "answer": "44",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n-1</sub>+A<sub>n</sub>)/2",
+    "stem": "88,24,56,40,48,44,46"
+  },
+  "442": {
+    "answer": "738",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(2n-1)^3+(2n-1)",
+    "stem": "2,30,130,350,738"
+  },
+  "443": {
+    "answer": "245",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)\\*(n+2)\\*n",
+    "stem": "9,32,75,144,245"
+  },
+  "444": {
+    "answer": "345",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=n\\*A<sub>n</sub>-3n",
+    "stem": "11,8,10,21,72,345"
+  },
+  "445": {
+    "answer": "-3",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n-1</sub>-A<sub>n</sub>)/2",
+    "stem": "7,9,-1,5,-3"
+  },
+  "446": {
+    "answer": "189",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=3^n-B<sub>n</sub>\n\nB<sub>n</sub>=3,5,7,11,13,17",
+    "stem": "2,9,45,189,891"
+  },
+  "447": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+(-1)<sup>n</sup>\\*6\\*2<sup>n-1</sup>",
+    "stem": "102, 96, 108, 84, 132, 36"
+  },
+  "448": {
+    "answer": "27",
+    "category": "sequence",
+    "hint": "",
+    "stem": "161,83,45,27"
+  },
+  "449": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>/3+2n+1",
+    "stem": "81,30,15,12,13"
+  },
+  "45": {
+    "answer": "22",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)\\*n-2+n",
+    "stem": "1,6,13,22"
+  },
+  "450": {
+    "answer": "599",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=4\\*A<sub>n</sub>-5",
+    "stem": "4,11,39,151,599"
+  },
+  "453": {
+    "answer": "27",
+    "category": "sequence",
+    "hint": "A<sub>n+3</sub>=A<sub>n</sub>+7n",
+    "stem": "2,3,6,9,17,27"
+  },
+  "454": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-(-2)<sup>4-n</sup>",
+    "stem": "1,9,5,7,6"
+  },
+  "455": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^2+3",
+    "stem": "4,7,12,19,28"
+  },
+  "456": {
+    "answer": "11/64",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(2n-1)/2^n",
+    "stem": "1/2,3/4,5/8,7/16,9/32,11/64"
+  },
+  "457": {
+    "answer": "231",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub><sup>2</sup>-A<sub>n</sub><sup>2</sup>",
+    "stem": "1,2,3,5,16,231"
+  },
+  "458": {
+    "answer": "25",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=(A<sub>n+1</sub>+A<sub>n</sub>)/2",
+    "stem": "60,4,32,18,25"
+  },
+  "459": {
+    "answer": "15131",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>^2+2",
+    "stem": "1,3,11,123,15131"
+  },
+  "46": {
+    "answer": "1/16",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>/(-2)",
+    "stem": "-2,1,-1/2,1/4,-1/8,1/16"
+  },
+  "460": {
+    "answer": "130",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^3-n\\*(-1)^n",
+    "stem": "2,6,30,60,130"
+  },
+  "461": {
+    "answer": "11",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+(-1)^n",
+    "stem": "1,1,3,5,11"
+  },
+  "462": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+3\n\nA<sub>2n+2</sub>=A<sub>2n</sub>-4",
+    "stem": "-3,8,0,4,3,0,6"
+  },
+  "463": {
+    "answer": "33",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5,7,10,15,22,33"
+  },
+  "465": {
+    "answer": "63",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=1/(13-2n)\n\nA<sub>2n</sub>=(n+1)^3-1",
+    "stem": "1/13,7,1/11,26,1/9,63"
+  },
+  "466": {
+    "answer": "12",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(6-n)^3+n",
+    "stem": "126,66,30,12,6"
+  },
+  "467": {
+    "answer": "254",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*n\\*(n+1)+2",
+    "stem": "4,14,38,82,152,254"
+  },
+  "469": {
+    "answer": "70",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=2\\*A<sub>n</sub>+1",
+    "stem": "0,1,2,5,12,29,70"
+  },
+  "47": {
+    "answer": "31",
+    "category": "sequence",
+    "hint": "4 4 5 7 （10）\n0 1 2 （3）\n21 + 10 = 31",
+    "stem": "1,5,9,14,21,31"
+  },
+  "470": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*5",
+    "stem": "1, 5, 8, 40, 7, 35, 4, 20, 2, 10"
+  },
+  "471": {
+    "answer": "5, 3",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=3+n\n\nA<sub>2n</sub>=7-n",
+    "stem": "3,6,4,5,5, 3,4,6,5, 3"
+  },
+  "472": {
+    "answer": "47",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub>+A<sub>n</sub>",
+    "stem": "1, 3, 4, 7, 11, 18, 29, 47"
+  },
+  "473": {
+    "answer": "72.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-2.75\\*n",
+    "stem": "100, 97.25, 91.75, 83.5, 72.5"
+  },
+  "474": {
+    "answer": "83",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+3\nA<sub>2n</sub>=A<sub>2n-2</sub>-4",
+    "stem": "71, 81, 74, 77, 77, 73, 80, 69, 83"
+  },
+  "475": {
+    "answer": "19 21 24",
+    "category": "sequence",
+    "hint": "A<sub>3n+1</sub>=A<sub>3n-2</sub>+6\nA<sub>3n+2</sub>=A<sub>3n-1</sub>+6\nA<sub>3n+3</sub>=A<sub>3n-3</sub>+6",
+    "stem": "0, 1, 3, 6, 7, 9, 12, 13, 15, 18, 19, 21, 24"
+  },
+  "477": {
+    "answer": "12.25",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+0.25\\*(n+4)",
+    "stem": "1, 2.25, 3.75, 5.5, 7.5, 9.75, 12.25"
+  },
+  "478": {
+    "answer": "131",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+32-2\\*n",
+    "stem": "1, 31, 59, 85, 109, 131"
+  },
+  "479": {
+    "answer": "U",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n+1",
+    "stem": "A,C,F,J,O,U"
+  },
+  "48": {
+    "answer": "13",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+A<sub>n-3</sub>-B<sub>n-3</sub>\n\nB<sub>n</sub>=B<sub>n-1</sub>+n+1",
+    "stem": "1,2,4,6,9,13,18"
+  },
+  "480": {
+    "answer": "81",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+27",
+    "stem": "0, 27, 54, 81, 108, 135"
+  },
+  "481": {
+    "answer": "86",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>-0.5\\*n",
+    "stem": "100, 99.5, 98.5, 97, 95, 92.5, 89.5, 86"
+  },
+  "482": {
+    "answer": "25",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+4\nA<sub>2n</sub>=A<sub>2n-2</sub>-3",
+    "stem": "9, 16, 13, 13, 17, 10, 21, 7, 25"
+  },
+  "483": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "C<sub>n</sub>=A<sub>n</sub>/B<sub>n</sub>",
+    "stem": "70 91 120 14 13 24 5 7 5"
+  },
+  "484": {
+    "answer": "31 62",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub>\\*2\nA<sub>2n</sub>=A<sub>2n-1</sub>+1",
+    "stem": "0,1,2,3,6,7,14,15,30,31,62"
+  },
+  "485": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "A<sub>n<sub>4</sub></sub>=(A<sub>n<sub>1</sub></sub>+A<sub>n<sub>2</sub></sub>+A<sub>n<sub>3</sub></sub>)/3",
+    "stem": "7 5 6 6 5 4 3 4 2 9 4 5"
+  },
+  "486": {
+    "answer": "122",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=3\\*A<sub>n-1</sub>-1",
+    "stem": "2,5,14,41,122"
+  },
+  "487": {
+    "answer": "44",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>-4\\*(n-1)",
+    "stem": "84,80,72,60,44"
+  },
+  "488": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=\\[A<sub>n-1</sub>%10+ (A<sub>n-1</sub>- A<sub>n-1</sub>%10)/10\\]\\*2",
+    "stem": "58,26,16,14,10"
+  },
+  "489": {
+    "answer": "95",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+9+2\\*(n-1)",
+    "stem": "39,50,63,78,95"
+  },
+  "49": {
+    "answer": "0",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=5<sup>4-n</sup>-5",
+    "stem": "120,20,0,-4"
+  },
+  "490": {
+    "answer": "-10",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>-(26-2\\*n)",
+    "stem": "66,44,24,6,-10"
+  },
+  "491": {
+    "answer": "100",
+    "category": "sequence",
+    "hint": "A2\\*n+1=A2\\*n\\*10,A2\\*n= A2\\*n-1/12",
+    "stem": "144,12,120,10,100"
+  },
+  "492": {
+    "answer": "92",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+7\\*(n-1)",
+    "stem": "22,29,43,64,92"
+  },
+  "493": {
+    "answer": "70",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+(-1)^n\\*(23-2\\*n)",
+    "stem": "55,74,57,72,59,70"
+  },
+  "494": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>-3",
+    "stem": "17,14,11,8,5,2"
+  },
+  "496": {
+    "answer": "402",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*3+6",
+    "stem": "2,12,42,132,402"
+  },
+  "497": {
+    "answer": "99",
+    "category": "sequence sequence",
+    "hint": "",
+    "stem": "72 68 41 28 98 16 34 99 56"
+  },
+  "5": {
+    "answer": "15",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*(0.5n)",
+    "stem": "4,2,2,3,6,15"
+  },
+  "50": {
+    "answer": "130",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+5",
+    "stem": "6,13,32,69,130"
+  },
+  "501": {
+    "answer": "80",
+    "category": "sequence sequence",
+    "hint": "",
+    "stem": "759,675,335,165,80"
+  },
+  "502": {
+    "answer": "4725",
+    "category": "sequence sequence",
+    "hint": "",
+    "stem": "4342 3176 1726 7995 7516 2162 8418 4725 1725"
+  },
+  "503": {
+    "answer": "0.1",
+    "category": "sequence sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>-0.19\nA<sub>2n+2</sub>=A<sub>2n</sub>+0.19",
+    "stem": "0.67,0.69,0.48,0.88,0.29,1.07,0.1"
+  },
+  "504": {
+    "answer": "+12",
+    "category": "sequence sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+5\nA<sub>2n+2</sub>=A<sub>2n</sub>-9",
+    "stem": "-3,+6,+2,-3,+7,-12,+12"
+  },
+  "506": {
+    "answer": "88",
+    "category": "sequence",
+    "hint": "",
+    "stem": "492,366,189,810,88"
+  },
+  "507": {
+    "answer": "11",
+    "category": "sequence sequence",
+    "hint": "A<sub>n</sub>=2\\*n-1",
+    "stem": "1 3 5 7 9 11"
+  },
+  "508": {
+    "answer": "2",
+    "category": "sequence sequence",
+    "hint": "A<sub>n</sub>=14-2\\*n",
+    "stem": "12 10 8 6 4 2"
+  },
+  "509": {
+    "answer": "27",
+    "category": "sequence sequence",
+    "hint": "A<sub>n</sub>=4\\*n+3",
+    "stem": "7 11 15 19 23 27"
+  },
+  "51": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=|A<sub>n-1</sub>+A<sub>n-2</sub>|",
+    "stem": "-7,3,4,7,11"
+  },
+  "510": {
+    "answer": "12",
+    "category": "sequence sequence",
+    "hint": "A<sub>n</sub>=42-5\\*n",
+    "stem": "37 32 27 22 17 12"
+  },
+  "511": {
+    "answer": "-2",
+    "category": "sequence sequence",
+    "hint": "A<sub>n</sub>=10-2\\*n",
+    "stem": "8 6 4 2 0 -2"
+  },
+  "512": {
+    "answer": "23",
+    "category": "sequence sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+n",
+    "stem": "2 3 5 8 12 17 23"
+  },
+  "513": {
+    "answer": "18",
+    "category": "sequence sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+5\nA<sub>2n</sub>=A<sub>2n-1</sub>+3",
+    "stem": "3 6 8 11 13 16 18"
+  },
+  "514": {
+    "answer": "10",
+    "category": "sequence sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>+1\nA<sub>2n+2</sub>=A<sub>2n+1</sub>",
+    "stem": "7 11 8 12 9 13 10"
+  },
+  "515": {
+    "answer": "30",
+    "category": "sequence sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n</sub>+5\nA<sub>2n</sub>=A<sub>2n-1</sub>+3",
+    "stem": "6 9 14 17 22 25"
+  },
+  "516": {
+    "answer": "37",
+    "category": "sequence sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=5",
+    "stem": "12,17,22,27,32,37"
+  },
+  "517": {
+    "answer": "28",
+    "category": "sequence sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=3n",
+    "stem": "-2,1,7,16,28,43"
+  },
+  "518": {
+    "answer": "273",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub>,B<sub>n</sub><sup>2</sup>=1,4,9,25,64",
+    "stem": "1,2,6,15,40,104,273"
+  },
+  "519": {
+    "answer": "4546",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=A<sub>n-1</sub><sup>2</sup>",
+    "stem": "2,3,7,16,65,321,4546"
+  },
+  "52": {
+    "answer": "68",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=10\\*n+B<sub>n</sub>\n\nB<sub>2n+1</sub>=B<sub>2n</sub>\\*2\n\nB<sub>2n</sub>=B<sub>2n-1</sub>\\*3",
+    "stem": "5,12,24, 36, 52, 68"
+  },
+  "520": {
+    "answer": "352",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>-A<sub>n-1</sub>)\\*4",
+    "stem": "1,6,20,56,144,352"
+  },
+  "521": {
+    "answer": "250",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>-A<sub>n-1</sub>)\\*5",
+    "stem": "3,5,10,25,75,250,875"
+  },
+  "522": {
+    "answer": "123",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>%3=0",
+    "stem": "15,18,54,123,210"
+  },
+  "523": {
+    "answer": "64",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>/A<sub>n</sub>=B<sub>n</sub>,Bn=2,4,8,16",
+    "stem": "1,2,8,64,1024"
+  },
+  "524": {
+    "answer": "8",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*A<sub>n-1</sub>",
+    "stem": "1,2,2,4,8,32"
+  },
+  "525": {
+    "answer": "617",
+    "category": "sequence",
+    "hint": "A<sub>n-1</sub>\\* A<sub>n</sub> +1= A<sub>n+1</sub>",
+    "stem": "2,5,11,56,617"
+  },
+  "526": {
+    "answer": "54",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=13,14,15,13,14,15",
+    "stem": "12,25,39,54,67,81,96"
+  },
+  "527": {
+    "answer": "44",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=64,-32,16,-8,4,-2",
+    "stem": "88,24,56,40,48,44,46"
+  },
+  "528": {
+    "answer": "84",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=8,9,11,14,18,23",
+    "stem": "1,9,18,29,43,61,84"
+  },
+  "529": {
+    "answer": "290",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=B<sub>n</sub><sup>2</sup>+1 ,B<sub>n</sub>=2,3,5,8,12,17",
+    "stem": "5,10,26,65,145,290"
+  },
+  "53": {
+    "answer": "324",
+    "category": "sequence",
+    "hint": ":A<sub>2n-1</sub>=B<sub>n</sub><sup>2</sup>\n\nB<sub>n</sub>=B<sub>n-1</sub>+n\n\nA<sub>2n</sub>=A<sub>2n-2</sub>\\*2",
+    "stem": "16, 25, 36, 50, 81, 100, 169, 200, 324"
+  },
+  "530": {
+    "answer": "34",
+    "category": "sequence",
+    "hint": "A<sub>n+3</sub>=A<sub>n</sub>+A<sub>n+1</sub>+A<sub>n+2</sub>-2",
+    "stem": "1,3,4,6,11,19,34"
+  },
+  "531": {
+    "answer": "1707",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*<sub>An+1</sub>-5",
+    "stem": "3,7,16,107,1707"
+  },
+  "532": {
+    "answer": "51",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=13",
+    "stem": "12,25,38,51,64,77,90"
+  },
+  "533": {
+    "answer": "39",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>+A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=4,6,8,9,10",
+    "stem": "-32,36,-30,38,-29,39"
+  },
+  "534": {
+    "answer": "35",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=-128,64,-32,16,-8",
+    "stem": "123,-5,59,27,43,35"
+  },
+  "535": {
+    "answer": "93",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>+A<sub>n</sub>=B<sub>n</sub> ,Bn=2,6,18,54,162",
+    "stem": "29,-27,33,-15,69,93"
+  },
+  "536": {
+    "answer": "225",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>–A<sub>n</sub> = B<sub>n</sub>,B<sub>n+1</sub> -B<sub>n</sub> = 1,2,3,5,8,13",
+    "stem": "-8,15,39,65,94,128,170,225"
+  },
+  "537": {
+    "answer": "256",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub> /A<sub>n</sub> =B<sub>n</sub>,B<sub>n</sub> = 1,2,4,8,16",
+    "stem": "0.25,0.25,0.5,2,16,256"
+  },
+  "538": {
+    "answer": "35",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub> / A<sub>2n-1</sub> =7, A<sub>2n+2</sub> – A<sub>2n</sub> =11",
+    "stem": "1,2,7,13,49,24,343,35"
+  },
+  "539": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>/ A<sub>n+1</sub> =B<sub>n</sub>, B<sub>n</sub> = 6,5,4,3",
+    "stem": "1200,200,40,10,10/3"
+  },
+  "54": {
+    "answer": "40",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>-1",
+    "stem": "1, 4, 4, 7, 10, 16, 25, 40"
+  },
+  "540": {
+    "answer": "-3",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> +A<sub>n+1</sub> =B<sub>n</sub>, B<sub>n</sub> = 16,8,4,2",
+    "stem": "7,9,-1,5,-3"
+  },
+  "541": {
+    "answer": "7/5",
+    "category": "sequence",
+    "hint": "B<sub>n</sub> / n=A<sub>n</sub>, B<sub>n</sub> =n+2",
+    "stem": "3,2,5/3,3/2,7/5"
+  },
+  "542": {
+    "answer": "866",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>^2+A<sub>n+1</sub>^2=A<sub>n+2</sub>",
+    "stem": "1,2,5,29,866"
+  },
+  "543": {
+    "answer": "56",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = B<sub>n</sub> \\* B<sub>n+1</sub>, B<sub>n+1</sub> = B<sub>n</sub> +1, B<sub>1</sub> = 1",
+    "stem": "2,12,30,56"
+  },
+  "544": {
+    "answer": "2/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=4/B<sub>n</sub>, B<sub>n</sub> = 2,4,6,8,10",
+    "stem": "2,1,2/3,1/2,2/5"
+  },
+  "545": {
+    "answer": "15",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>/A<sub>n</sub> =B<sub>n</sub>,B<sub>n</sub>=0.5,1,1.5,2,2.5",
+    "stem": "4,2,2,3,6,15"
+  },
+  "546": {
+    "answer": "121",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> ^2 + A<sub>n+1</sub> =A<sub>n+2</sub>",
+    "stem": "1,7,8,57,121"
+  },
+  "547": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> + A<sub>n+1</sub> =B<sub>n</sub>, B<sub>n</sub> /2=A<sub>n+2</sub>",
+    "stem": "4,12,8,10,9"
+  },
+  "548": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub> / A<sub>2n-1</sub> = 3",
+    "stem": "2,6,13,39,15,45,23,69"
+  },
+  "549": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> =n<sup>3</sup>-n<sup>2</sup>",
+    "stem": "0,4,18,48,100"
+  },
+  "55": {
+    "answer": "22",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)<sup>2</sup>-A<sub>n-1</sub>",
+    "stem": "9,0,16,9,27,22"
+  },
+  "550": {
+    "answer": "-115",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>^2 – A<sub>n+1</sub> = A<sub>n+2</sub>",
+    "stem": "5,15,10,215,-115"
+  },
+  "551": {
+    "answer": "28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = B<sub>n</sub>^3 + 1,B<sub>n</sub> = -2,-1,0,1,2,3",
+    "stem": "-7,0,1,2,9,28"
+  },
+  "552": {
+    "answer": "102",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub> ^2 + 1 =A<sub>2n</sub>,\nA<sub>2n</sub> ^2 +2 = A<sub>2n+1</sub>",
+    "stem": "0,1,3,10,102"
+  },
+  "553": {
+    "answer": "120",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> + A<sub>n+1</sub> =B<sub>n</sub>, B<sub>n</sub> \\*n=A<sub>n+2</sub>",
+    "stem": "1,1,2,6,24,120"
+  },
+  "554": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub> = A<sub>n</sub> + 2^B<sub>n</sub> ,B<sub>n</sub> = 0,2,4,6,8",
+    "stem": "3,4,8,24,88,344"
+  },
+  "555": {
+    "answer": "32",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>1</sub> + A<sub>2</sub> +…+A<sub>n-1</sub>,n&gt;=3, A<sub>1</sub> = 1, A<sub>2</sub> = 3",
+    "stem": "1,3,4,8,16,32"
+  },
+  "556": {
+    "answer": "163",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub> = A<sub>n</sub> \\*2 +B<sub>n</sub> ,B<sub>n</sub> = 3,5,7,9",
+    "stem": "6,15,35,77,163"
+  },
+  "557": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub> = B<sub>2n-1</sub>^2 + 1, A<sub>2n</sub> =B<sub>2n</sub> ^2 -1,B<sub>n</sub>=8,6,4,2,0",
+    "stem": "65,35,17,3,1"
+  },
+  "558": {
+    "answer": "32",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub> = A<sub>n</sub> + A<sub>n+1</sub> +B<sub>n</sub> ,B<sub>n</sub> = 3,0,-2,-3",
+    "stem": "1,5,9,14,21,32"
+  },
+  "559": {
+    "answer": "0",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = 5^B<sub>n</sub> -5, B<sub>n</sub> = 3,2,1,0",
+    "stem": "120,20,0,-4"
+  },
+  "56": {
+    "answer": "31",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+(n-1)<sup>2</sup>",
+    "stem": "1,1,2,6,15,31"
+  },
+  "560": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub> = A<sub>n</sub> +A<sub>n+1</sub>",
+    "stem": "-7,3,4,7,11"
+  },
+  "561": {
+    "answer": "40",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub> = A<sub>n</sub> +A<sub>n+1</sub> -1",
+    "stem": "1,4,4,7,10,16,25,40"
+  },
+  "562": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>1</sub> + A<sub>2</sub> +…+A<sub>n-1</sub>,n&gt;=3, A<sub>1</sub> = 4, A<sub>2</sub> = 12",
+    "stem": "4,12,16,32,64,128"
+  },
+  "563": {
+    "answer": "217",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub> = (2n-1)^3 – 1, A<sub>2n</sub> = (2n)^3 + 1",
+    "stem": "0,9,26,65,124,217"
+  },
+  "564": {
+    "answer": "7/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=B<sub>n</sub> / n, B<sub>n</sub> = 3,4,5,6,7",
+    "stem": "3,2,5/3,3/2,7/5"
+  },
+  "565": {
+    "answer": "62.5",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub> =( A<sub>n</sub> +A<sub>n+1</sub>)/2",
+    "stem": "2,90,46,68,57,62.5"
+  },
+  "566": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = (n-1)^B<sub>n</sub> ,B<sub>n</sub> =7,6,5,4,3,2,1",
+    "stem": "-1,0,31,80,63,24,5"
+  },
+  "567": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>n+3</sub>=A<sub>n</sub>+A<sub>n+1</sub>+A<sub>n+2</sub>",
+    "stem": "1,3,2,6,11,19,36"
+  },
+  "568": {
+    "answer": "45",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>/A<sub>n</sub> =B<sub>n</sub> ,B<sub>n</sub> = 1,1.5,2,2.5,3",
+    "stem": "2,2,3,6,15,45"
+  },
+  "569": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>^2-A<sub>n+1</sub>",
+    "stem": "5,6,19,17,344,-55"
+  },
+  "57": {
+    "answer": "60",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+8",
+    "stem": "5,6,19,33,60,101"
+  },
+  "570": {
+    "answer": "-28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>^2 -1, B<sub>n</sub>=4,3,2,1,0,-1,-2,-3",
+    "stem": "63,26,7,0,-1,-2,-9,-28"
+  },
+  "571": {
+    "answer": "255",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n</sub>+1)^2-1",
+    "stem": "1,3,15,255"
+  },
+  "572": {
+    "answer": "4870847",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>^2-2",
+    "stem": "3,7,47,2207,4870847"
+  },
+  "573": {
+    "answer": "5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+1)^B<sub>n</sub> ,B<sub>n</sub>=4,3,2,1,0",
+    "stem": "16,27,16,5,1"
+  },
+  "574": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^3+3",
+    "stem": "4,11,30,67,128"
+  },
+  "575": {
+    "answer": "127",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^3+2",
+    "stem": "3,10,29,66,127"
+  },
+  "576": {
+    "answer": "1/32",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1/B<sub>n</sub> ,B<sub>n</sub>=n^3+1",
+    "stem": "1/2,1/9,1/28,1/32"
+  },
+  "577": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*2+B<sub>n</sub> ,B<sub>n+1</sub>/B<sub>n</sub>=-1",
+    "stem": "3,5,11,21,43"
+  },
+  "578": {
+    "answer": "228",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = B<sub>n</sub>^2+3, B<sub>n</sub>=1,3,6,10,15",
+    "stem": "4,12,39,103,228"
+  },
+  "579": {
+    "answer": "511",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+3)^3-1",
+    "stem": "63,124,215,242,511"
+  },
+  "58": {
+    "answer": "2",
+    "category": "sequence",
+    "hint": "A<sub>3n</sub>=A<sub>3n-1</sub>+1",
+    "stem": "0,1,2,2,3,4,4,5"
+  },
+  "580": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>^2+B<sub>n</sub> ,B<sub>n</sub> = 5,4,3,2,1",
+    "stem": "130,68,30,10,2"
+  },
+  "581": {
+    "answer": "252",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n\\*B<sub>n</sub> ,B<sub>n</sub>=2,6,12,20,30,42",
+    "stem": "2,12,36,80,150,252"
+  },
+  "582": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "A<sub>n</sub> = n^B<sub>n</sub> ,B<sub>n</sub>=4,3,2,1,0,-1",
+    "stem": "1,8,9,4,1,1/6"
+  },
+  "583": {
+    "answer": "69",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n+1</sub>\\*2-B<sub>n</sub> ,B<sub>n</sub>=-3,-2,-1,0,1",
+    "stem": "69,36,19,10,5,2"
+  },
+  "584": {
+    "answer": "180",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)\\*B<sub>n</sub> ,B<sub>n</sub>=1,4,9,16,25,36",
+    "stem": "0,4,18,48,100,180"
+  },
+  "585": {
+    "answer": "-3",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=(A<sub>n</sub>-A<sub>n+1</sub>)/2",
+    "stem": "7,9,-1,5,-3"
+  },
+  "586": {
+    "answer": "1707",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>\\*A<sub>n+1</sub>-5",
+    "stem": "3,7,16,107,1707"
+  },
+  "587": {
+    "answer": "30651",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n+1</sub><sup>2</sup>+A<sub>n</sub>\\*2",
+    "stem": "2,3,13,175,30651"
+  },
+  "588": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>/A<sub>n</sub>=B<sub>n</sub>,B<sub>n</sub>=1,2,3,4",
+    "stem": "1,1,2,6,24"
+  },
+  "589": {
+    "answer": "226",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub>,B<sub>n</sub>=9,21,39,63,93",
+    "stem": "1,10,31,70,133,226"
+  },
+  "59": {
+    "answer": "128",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*2",
+    "stem": "4,8,16,32,64,128"
+  },
+  "590": {
+    "answer": "185",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=1,2,5,14,41,122",
+    "stem": "0,1,3,8,22,63,185"
+  },
+  "591": {
+    "answer": "290",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>^2+1,\nB<sub>n</sub>=B<sub>n-1</sub>+(n-1), B<sub>1</sub>=2",
+    "stem": "5,10,26,65,145,290"
+  },
+  "592": {
+    "answer": "99",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub> = A<sub>n+1</sub>\\*2+A<sub>n</sub>",
+    "stem": "1,1,3,7,17,41,99"
+  },
+  "593": {
+    "answer": "-9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>= A<sub>n</sub>^3-1",
+    "stem": "1,0,-1,-2,-9"
+  },
+  "594": {
+    "answer": "11",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub> =A<sub>n</sub>\\*2+n-1",
+    "stem": "0,0,1,4,11"
+  },
+  "595": {
+    "answer": "210",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n^3-n",
+    "stem": "0,6,24,60,120,210"
+  },
+  "596": {
+    "answer": "178.5",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>-A<sub>n</sub>=B<sub>n</sub> ,B<sub>n</sub>=88,44,22,11,5.5",
+    "stem": "8,96,140,162,173,178.5"
+  },
+  "597": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n-1</sub>+A<sub>2n</sub>=B<sub>n</sub> ,B<sub>n</sub>=2,4,8,16",
+    "stem": "1,1,3,1,3,5,6,10"
+  },
+  "598": {
+    "answer": "255",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=2^B<sub>n</sub>-1, B<sub>n</sub>=1,2,4,8",
+    "stem": "1,3,15,255"
+  },
+  "599": {
+    "answer": "65",
+    "category": "sequence",
+    "hint": "A<sub>n+2</sub>=A<sub>n</sub>^2+A<sub>n+1</sub>",
+    "stem": "1,2,3,7,16,65,191"
+  },
+  "6": {
+    "answer": "121",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n-1</sub><sup>2</sup>+A<sub>n</sub>",
+    "stem": "1,7,8,57,121"
+  },
+  "60": {
+    "answer": "10",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=2<sup>n</sup>-A<sub>2n-1</sub>",
+    "stem": "1,1,3,1,3,5,6,10"
+  },
+  "600": {
+    "answer": "14641",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>\\*11",
+    "stem": "1,11,121,1331,14641"
+  },
+  "601": {
+    "answer": "48",
+    "category": "sequence",
+    "hint": "An=n^2 \\* Bn ,Bn = 0,1,2,3,4",
+    "stem": "0,4,18,48,100"
+  },
+  "602": {
+    "answer": "43",
+    "category": "sequence",
+    "hint": "An+2=An+1+3^n",
+    "stem": "3,4,7,16,43,124"
+  },
+  "603": {
+    "answer": "104",
+    "category": "sequence",
+    "hint": "An+2=An+1+An",
+    "stem": "81,23,104,127"
+  },
+  "604": {
+    "answer": "168",
+    "category": "sequence",
+    "hint": "An = Bn^2-1, Bn = 2,3,5,7,11",
+    "stem": "3,8,24,48,120,168"
+  },
+  "605": {
+    "answer": "105",
+    "category": "sequence",
+    "hint": "An+1 -An =Bn\\*3 ,Bn=2,3,5,7,11",
+    "stem": "21,27,36,51,72,105"
+  },
+  "606": {
+    "answer": "17",
+    "category": "sequence",
+    "hint": "An+An+1+An+2=Bn, Bn= 4,9,16,25,36",
+    "stem": "1,2,1,6,9,10,17"
+  },
+  "607": {
+    "answer": "42.5",
+    "category": "sequence",
+    "hint": "An/An+1=2/3",
+    "stem": "8,12,18,27,42.5"
+  },
+  "608": {
+    "answer": "6",
+    "category": "sequence",
+    "hint": "An+2=An+1/An",
+    "stem": "1/2,1/6,1/3,2,6,3,1/2"
+  },
+  "609": {
+    "answer": "15131",
+    "category": "sequence",
+    "hint": "An+1=An^2+2",
+    "stem": "1,3,11,123,15131"
+  },
+  "61": {
+    "answer": "217",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=n<sup>3</sup>+(-1)<sup>n</sup>",
+    "stem": "0,9,26,65,124,217"
+  },
+  "610": {
+    "answer": "2109",
+    "category": "sequence",
+    "hint": "An+2=An+1^2-An",
+    "stem": "1,2,3,7,46,2109"
+  },
+  "611": {
+    "answer": "7",
+    "category": "sequence",
+    "hint": "An+2=(An+An+1)/2",
+    "stem": "18,2,10,6,8,7"
+  },
+  "612": {
+    "answer": "730",
+    "category": "sequence",
+    "hint": "An+2=An^3+1",
+    "stem": "-1,0,1,2,9,730"
+  },
+  "613": {
+    "answer": "120",
+    "category": "sequence",
+    "hint": "An=n^3+n\\*(-1)^n",
+    "stem": "0,10,24,68,120"
+  },
+  "614": {
+    "answer": "160",
+    "category": "sequence",
+    "hint": "An+2 = (An+1 – An) \\*4",
+    "stem": "2,8,24,64,160"
+  },
+  "615": {
+    "answer": "288",
+    "category": "sequence",
+    "hint": "An=Bn^2-1, Bn=2,3,5,8,12,17",
+    "stem": "23,8,24,63,143,288"
+  },
+  "616": {
+    "answer": "1000",
+    "category": "sequence",
+    "hint": "An = Bn^3 ,Bn = -1,3,4,7,10",
+    "stem": "-1,64,27,343,1000"
+  },
+  "617": {
+    "answer": "1944",
+    "category": "sequence",
+    "hint": "An+1/An=3",
+    "stem": "24,72,216,648,1944"
+  },
+  "618": {
+    "answer": "121",
+    "category": "sequence",
+    "hint": "An+2=An^2+An+1",
+    "stem": "1,7,8,57,121"
+  },
+  "619": {
+    "answer": "26",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+6",
+    "stem": "2 8 14 20 26"
+  },
+  "62": {
+    "answer": "1/4",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(3n+1)/2<sup>n+1</sup>",
+    "stem": "1,7/8,5/8,13/32,1/4,19/128"
+  },
+  "620": {
+    "answer": "9",
+    "category": "sequence-reasoning",
+    "hint": "S<sub>2\\*n</sub>= S<sub>2\\*n-1</sub>+2;S<sub>2\\*n+1</sub>= S<sub>2\\*n</sub>-1;",
+    "stem": "1 3 2 4 6 5 7 9"
+  },
+  "621": {
+    "answer": "6",
+    "category": "sequence-reasoning",
+    "hint": "S<sub>2\\*n</sub>= S<sub>2\\*n-1</sub>-2;S<sub>2\\*n+1</sub>= S<sub>2\\*n</sub>+1;",
+    "stem": "9 7 8 6 7 5 6"
+  },
+  "622": {
+    "answer": "38",
+    "category": "sequence-reasoning",
+    "hint": "",
+    "stem": "961 25 432 932 38 731"
+  },
+  "625": {
+    "answer": "60",
+    "category": "sequence-reasoning",
+    "hint": "",
+    "stem": "16 96 12 10 60 7.5"
+  },
+  "629": {
+    "answer": "14",
+    "category": "sequence-reasoning",
+    "hint": "number are odd number",
+    "stem": "3, 5, 7, 11, 17"
+  },
+  "63": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+2<sup>2n-4</sup>",
+    "stem": "2,4,8,24,88,344"
+  },
+  "630": {
+    "answer": "44",
+    "category": "sequence-reasoning",
+    "hint": "An=An-1+n+1",
+    "stem": "2, 5, 9, 14, 20, 27, 35, 44"
+  },
+  "631": {
+    "answer": "8",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>2\\*n+1</sub>= A<sub>2\\*n</sub>-2, A<sub>2\\*n</sub>= A<sub>2\\*n-1</sub>-1",
+    "stem": "18, 17, 15, 14, 12, 11, 9, 8"
+  },
+  "632": {
+    "answer": "5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>3\\*n+1</sub>= A<sub>3\\*n</sub>-2, A<sub>3\\*n+2</sub>= A<sub>3\\*n+1</sub>+2, A<sub>3\\*n</sub>= A<sub>3\\*n-1</sub>+2",
+    "stem": "3, 1, 3, 5, 3, 5, 7, 5"
+  },
+  "633": {
+    "answer": "6",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>2\\*n</sub>= A<sub>2\\*n-1</sub>-5",
+    "stem": "20, 15, 17, 12, 13, 8, 11, 6"
+  },
+  "634": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>3\\*n+1</sub>= A<sub>3\\*n</sub>\\*2, A<sub>3\\*n+2</sub>= A<sub>3\\*n+1</sub>\\*2",
+    "stem": "¼, ½, 1, 3, 6, 12, 5, 10"
+  },
+  "635": {
+    "answer": "14",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n2</sub>= A<sub>n1</sub>+2, A<sub>n3</sub>= A<sub>n2</sub>+2",
+    "stem": "Find the number that should be in the 14 square for the following items\n\n2 4 6\n\n6 8 10\n\n10 12 14"
+  },
+  "636": {
+    "answer": "7",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n2</sub>= A<sub>n1</sub>+2, A<sub>n3</sub>= A<sub>n2</sub>+2",
+    "stem": "Find the number that should be in the 7 square for the following items\n\n1 3 5\n\n5 7 9\n\n7 9 11."
+  },
+  "637": {
+    "answer": "23",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n2</sub>= A<sub>n1</sub>-9, A<sub>n3</sub>= A<sub>n2</sub>-9",
+    "stem": "Find the number that should be in the 23 square for the following items\n\n25 16 7\n\n33 24 15\n\n41 32 23"
+  },
+  "638": {
+    "answer": "21",
+    "category": "sequence-reasoning",
+    "hint": "An=An-1+An-2",
+    "stem": "Which number should come next in the series21\n\n1 1 2 3 5 8 13 21"
+  },
+  "639": {
+    "answer": "EIGHT",
+    "category": "sequence-reasoning",
+    "hint": "",
+    "stem": "Which one of the numbers does not belong in the following seriesEIGHT\n\n2 3 6 7 8 14 15 30"
+  },
+  "64": {
+    "answer": "7/5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n+2)/n",
+    "stem": "3,2,5/3,3/2,7/5"
+  },
+  "640": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A2\\*n=A2\\*n-1\\*2",
+    "stem": "Which one of the numbers does not belong in the following series48\n\n1 2 5 10 13 26 29 48"
+  },
+  "641": {
+    "answer": "64",
+    "category": "sequence-reasoning",
+    "hint": "An=n^3",
+    "stem": "What is the missing number in the sequence-reasoning shown below64\n\n1 8 27 64 125 216"
+  },
+  "642": {
+    "answer": "-\\#o-\\#o-\\#o-\\#o",
+    "category": "sequence-reasoning",
+    "hint": "",
+    "stem": "Take a look at the pattern: o-\\#o-\\#o-\\#o-\\# \\#o-\\#o-\\#o-\\#o- What comes next in this pattern-\\#o-\\#o-\\#o-\\#o"
+  },
+  "643": {
+    "answer": "0.25",
+    "category": "sequence-reasoning",
+    "hint": "An=An-2/2",
+    "stem": "2, 6, 1, 3, 0.5, 1.5, 0.25"
+  },
+  "644": {
+    "answer": "-3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>+A<sub>n+1</sub> = 2^(5-n)",
+    "stem": "7 9 -1 5 -3"
+  },
+  "645": {
+    "answer": "7/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = (2+n)/n",
+    "stem": "3 2 5/3 3/2 7/5"
+  },
+  "646": {
+    "answer": "866",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>^2+ A<sub>n-1</sub>^2",
+    "stem": "1 2 5 29 866"
+  },
+  "647": {
+    "answer": "56",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = n\\*(n+1)",
+    "stem": "2 12 30 56"
+  },
+  "648": {
+    "answer": "2/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = 4/(2\\*n)",
+    "stem": "2 1 2/3 1/2 2/5"
+  },
+  "649": {
+    "answer": "15",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub> = 0.5\\*(n-1)",
+    "stem": "4 2 2 3 6 15"
+  },
+  "65": {
+    "answer": "62.5",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(A<sub>n-1</sub>+A<sub>n-2</sub>)/2",
+    "stem": "2,90,46,68,57,62.5"
+  },
+  "650": {
+    "answer": "121",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>^2+A<sub>n-1</sub>",
+    "stem": "1 7 8 57 121"
+  },
+  "651": {
+    "answer": "9",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = (A<sub>n-2</sub>+A<sub>n-1</sub>)/2",
+    "stem": "4 12 8 10 9"
+  },
+  "652": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "The denominator are prime number and the molecules are odd columns.",
+    "stem": "1/2 1 1 1 9/11 11/13"
+  },
+  "653": {
+    "answer": "40",
+    "category": "sequence-reasoning",
+    "hint": "Decimal decrease 1",
+    "stem": "95 88 71 61 50 40"
+  },
+  "654": {
+    "answer": "69",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub> = A<sub>n\\*2-1</sub>\\*3",
+    "stem": "2 6 13 39 15 45 23 69"
+  },
+  "655": {
+    "answer": "21 23",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2+1</sub> = A<sub>n\\*2-1</sub>+2\\*n; A<sub>n\\*2</sub> = A<sub>n\\*2-2</sub>+2\\*(n-1);",
+    "stem": "1 3 3 5 7 9 13 15 21 23 21 23"
+  },
+  "656": {
+    "answer": "100",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>\\*2+A<sub>n-1</sub>\\*3",
+    "stem": "1 2 8 28 100"
+  },
+  "657": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = (n-1)\\*n^2",
+    "stem": "0 4 18 48 100"
+  },
+  "658": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "The number are prime number and the and of number consists of numbers are prime number",
+    "stem": "23 89 43 2"
+  },
+  "659": {
+    "answer": "6",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*3</sub> = A<sub>n\\*3-3</sub>+1; A<sub>n\\*3+1</sub> = A<sub>n\\*3-2</sub>+2; A<sub>n\\*3+2</sub> = A<sub>n\\*3-1</sub>+2;",
+    "stem": "1 1 2 2 3 4 3 5 6"
+  },
+  "66": {
+    "answer": "18",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>2</sup>-(A<sub>n-1</sub>+A<sub>n-2</sub>)",
+    "stem": "2,2,0,7,9,9,18"
+  },
+  "660": {
+    "answer": "515",
+    "category": "sequence-reasoning",
+    "hint": "(A<sub>n</sub>/10) mod (A<sub>n</sub>-(A<sub>n</sub>/10)\\*10) = 1",
+    "stem": "1 52 313 174 515"
+  },
+  "661": {
+    "answer": "-115",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>^2-A<sub>n-1</sub>",
+    "stem": "5 15 10 215 -115"
+  },
+  "662": {
+    "answer": "28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = (n-3)^3+1",
+    "stem": "-7 0 1 2 9 28"
+  },
+  "663": {
+    "answer": "102",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub> = A<sub>n\\*2-1</sub>^2+1; A<sub>n\\*2+1</sub> = A<sub>n\\*2</sub>^2+2;",
+    "stem": "0 1 3 10 102"
+  },
+  "664": {
+    "answer": "63",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = ((n+1)^3+1)/2 (n&gt;=2);A<sub>1</sub> = ((n+1)^3+2)/2 (n&gt;=2)",
+    "stem": "5 14 65/2 63 217/2"
+  },
+  "665": {
+    "answer": "71428",
+    "category": "sequence-reasoning",
+    "hint": "124=1,2,4;3612=3,6,12;51020=5,10,20",
+    "stem": "124 3612 51020 71428"
+  },
+  "666": {
+    "answer": "120",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = (A<sub>n-1</sub>+A<sub>n-2</sub>)\\*(n-2);",
+    "stem": "1 1 2 6 24 120"
+  },
+  "667": {
+    "answer": "344",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = n^(n\\*2-4)+A<sub>n-1</sub>;",
+    "stem": "3 4 8 24 88 344"
+  },
+  "668": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>-A<sub>n-1</sub> are prime number",
+    "stem": "20 22 25 30 37 48"
+  },
+  "669": {
+    "answer": "4/243",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =n/3^(n+1);",
+    "stem": "1/9 2/27 1/27 4/243"
+  },
+  "67": {
+    "answer": "233",
+    "category": "sequence",
+    "hint": "A<sub>n　</sub> mod　A<sub>n-1</sub>＝２",
+    "stem": "3,8,11,20,71,233"
+  },
+  "670": {
+    "answer": "126^1/2",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =(n^3+1)^1/2;",
+    "stem": "2^0.5 3 28^0.5 65^0.5 126^0.5"
+  },
+  "671": {
+    "answer": "32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =S<sub>n-1</sub>;",
+    "stem": "1 3 4 8 16 32"
+  },
+  "672": {
+    "answer": "2/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =2/n;",
+    "stem": "2 1 2/3 1/2 2/5"
+  },
+  "673": {
+    "answer": "99",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>+A<sub>n-1</sub>\\*2",
+    "stem": "1 1 3 7 17 41 99"
+  },
+  "674": {
+    "answer": "525/4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub>=(n\\*0.5+1)",
+    "stem": "5/2 5 25/2 75/2 525/4"
+  },
+  "675": {
+    "answer": "163",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-1</sub>\\*2+(2\\*n-1)",
+    "stem": "6 15 35 77 163"
+  },
+  "676": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2+1</sub> = A<sub>n\\*2-1</sub>+2\\*n; A<sub>n\\*2</sub> = A<sub>n\\*2-2</sub>\\*2;",
+    "stem": "1 3 3 6 7 12 1524"
+  },
+  "677": {
+    "answer": "4/11",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =(n+3)/(n\\*4+2);",
+    "stem": "2/3 1/2 3/7 7/18 4/11"
+  },
+  "678": {
+    "answer": "-28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =(5-n)^3-1;",
+    "stem": "63 26 7 0 -2 -9 -28"
+  },
+  "679": {
+    "answer": "37",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-1</sub>+A<sub>n-2</sub>+A<sub>n-3</sub>;",
+    "stem": "1 2 3 6 11 20 37"
+  },
+  "68": {
+    "answer": "24",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(n-1)<sup>8-n</sup>-1",
+    "stem": "-1,0,31,80,63,24,5"
+  },
+  "680": {
+    "answer": "65",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> = A<sub>n-2</sub>^2+A<sub>n-1</sub>;",
+    "stem": "1 2 3 7 16 65"
+  },
+  "681": {
+    "answer": "138",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>-A<sub>n\\*2-1</sub>=(n\\*2+2)^2-3;",
+    "stem": "2 15 7 40 77 138"
+  },
+  "682": {
+    "answer": "30",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)\\*n;",
+    "stem": "2 6 12 20 30"
+  },
+  "683": {
+    "answer": "210",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3-n;",
+    "stem": "0 6 24 60 120 210"
+  },
+  "684": {
+    "answer": "56",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+1)\\*n;",
+    "stem": "2 12 30 56"
+  },
+  "685": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>/A<sub>n\\*2-1</sub>=2;",
+    "stem": "1 2 3 6 12 24"
+  },
+  "686": {
+    "answer": "32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>+2;",
+    "stem": "1 3 6 12 32"
+  },
+  "687": {
+    "answer": "32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>+2;",
+    "stem": "1 3 6 12 32"
+  },
+  "688": {
+    "answer": "-219",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>-A<sub>n+1</sub>= (A<sub>n-1</sub>-A<sub>n</sub>)+(A<sub>n-2</sub>-A<sub>n-1</sub>);",
+    "stem": "129 107 73 17 -73 -219"
+  },
+  "689": {
+    "answer": "3",
+    "category": "sequence-reasoning",
+    "hint": "The and of number consists of numbers:5 17 7 0 3-&gt; A<sub>n</sub>-A<sub>n-1</sub>:-12 10 7 -3 as (-1, 1, 1, -1)\\*(12, 10, 7, 3)",
+    "stem": "32 98 34 0 3"
+  },
+  "69": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>2n+1</sub>=A<sub>2n-1</sub>-3(3-n)",
+    "stem": "18,4,12,9,9,20,9,43"
+  },
+  "690": {
+    "answer": "31",
+    "category": "sequence-reasoning",
+    "hint": "The and of number consists of numbers: 5 8 3 7 ?-&gt; 3+5=8,3+?=7",
+    "stem": "5 17 21 25 31"
+  },
+  "691": {
+    "answer": "180",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= n^2\\*(n-1);",
+    "stem": "0 4 18 48 100 180"
+  },
+  "692": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(10-2\\*n)^2+(-1)^n;",
+    "stem": "65 35 17 31"
+  },
+  "693": {
+    "answer": "22",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n\\*(n+1)+n-2;",
+    "stem": "1 6 13 22"
+  },
+  "694": {
+    "answer": "1/16",
+    "category": "sequence-reasoning",
+    "hint": "|A<sub>n</sub>/A<sub>n+1</sub>|=1/2;",
+    "stem": "2 -1 -1/2 -1/4 1/8 1/16"
+  },
+  "695": {
+    "answer": "32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+B<sub>n-2</sub>;B<sub>1</sub>=3,B<sub>n</sub>+1-B<sub>n</sub>=n-4;",
+    "stem": "1 5 9 14 21 32"
+  },
+  "696": {
+    "answer": "216",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> mod 4 = 0, 2, 0, 2, 0;",
+    "stem": "4 18 56 130216"
+  },
+  "697": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> mod 3 = 1, 0, -1, 1, 0,-1;",
+    "stem": "4 18 56 130 24"
+  },
+  "698": {
+    "answer": "13",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+A<sub>n-3</sub>-B<sub>n-3</sub>;B<sub>1</sub>=1,B<sub>n+1</sub>-B<sub>n</sub>=n+1;",
+    "stem": "1 2 4 6 9 13 18"
+  },
+  "699": {
+    "answer": "32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>-B<sub>n-2</sub>;B<sub>1</sub>=3,B<sub>n+1</sub>-B<sub>n</sub>=n-4;",
+    "stem": "1 5 9 14 21 32"
+  },
+  "7": {
+    "answer": "9",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=(A<sub>n-1</sub>+A<sub>n</sub>)/2",
+    "stem": "4,12,8,10,9"
+  },
+  "70": {
+    "answer": "36",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+A<sub>n-3</sub>",
+    "stem": "1,3,2,6,11,19,36"
+  },
+  "700": {
+    "answer": "15",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>^2-1;B<sub>n</sub>=11 7 5 3 4",
+    "stem": "120 48 24 8 15"
+  },
+  "701": {
+    "answer": "2",
+    "category": "sequence-reasoning",
+    "hint": "2\\*4\\*6=48;3\\*9\\*2=54;",
+    "stem": "48 2 4 6 54 2 3 9"
+  },
+  "702": {
+    "answer": "0",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=5^(-n+4)-5;",
+    "stem": "120 20 0 -4"
+  },
+  "703": {
+    "answer": "133",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=3\\*B<sub>n</sub>+n-1; B<sub>n</sub>=2 4 10 22 42",
+    "stem": "6 13 32 69 133"
+  },
+  "704": {
+    "answer": "111221",
+    "category": "sequence-reasoning",
+    "hint": "",
+    "stem": "1 11 21 1211 111221"
+  },
+  "705": {
+    "answer": "7",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= |A<sub>n-1</sub>+A<sub>n-2</sub>|",
+    "stem": "-7 3 4 7 11"
+  },
+  "706": {
+    "answer": "7.7",
+    "category": "sequence-reasoning",
+    "hint": "odd number",
+    "stem": "3.3 5.7 13.5 7.7"
+  },
+  "707": {
+    "answer": "34.5",
+    "category": "sequence-reasoning",
+    "hint": "decimal part is 1",
+    "stem": "33.1 88.1 471. 34.5"
+  },
+  "708": {
+    "answer": "68",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= 10\\*n+B<sub>n</sub>; B<sub>n</sub>=2 4 6 12 18",
+    "stem": "5 12 24 36 52 68"
+  },
+  "709": {
+    "answer": "324",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>/A<sub>n\\*2-2</sub>=2; A<sub>n\\*2-1</sub>=B<sub>n</sub>^2;B<sub>n</sub>=4 6 9 13 18",
+    "stem": "16 25 36 50 81 100 169 200 324"
+  },
+  "71": {
+    "answer": "1/48",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=1/B<sub>n</sub>\n\nB<sub>n</sub>=B<sub>n-1</sub>\\*(6-n)",
+    "stem": "1/2,1/8,1/24,1/48,1/48"
+  },
+  "710": {
+    "answer": "40",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>+A<sub>n-1</sub> -1;",
+    "stem": "1 4 4 7 10 16 25 40"
+  },
+  "711": {
+    "answer": "885/34",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-1</sub>+A<sub>n-2</sub>;B<sub>n</sub> mod A<sub>n</sub> = 1;",
+    "stem": "7/3 21/5 49/8 131/13 337/21 885/34"
+  },
+  "712": {
+    "answer": "22",
+    "category": "sequence-reasoning",
+    "hint": "(A<sub>n</sub>+A<sub>n-1</sub>)=(n+1)^2;",
+    "stem": "9 0 16 9 27 22"
+  },
+  "713": {
+    "answer": "31",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>-A<sub>n-1</sub>=(n-2)^2;",
+    "stem": "1 1 2 6 15 31"
+  },
+  "714": {
+    "answer": "60",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-3</sub>+A<sub>n-2</sub>+A<sub>n-1</sub>;",
+    "stem": "5 6 19 33 60 101"
+  },
+  "715": {
+    "answer": "2",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*3</sub>= A<sub>n\\*3-3</sub>+2;",
+    "stem": "0 1 2 2 3 4 4 5"
+  },
+  "716": {
+    "answer": "128",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>(n&gt;2)",
+    "stem": "4 12 16 32 64 128"
+  },
+  "717": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n\\*2</sub>+A<sub>n\\*2-1</sub>;B<sub>n+1</sub>/B<sub>n</sub>=2;",
+    "stem": "1 1 3 1 3 5 6 10"
+  },
+  "718": {
+    "answer": "217",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)^3-1;",
+    "stem": "0 9 26 65 124 217"
+  },
+  "719": {
+    "answer": "17/26",
+    "category": "sequence-reasoning",
+    "hint": "The subtraction between the numerator and denominator is 2 4 6 8 10",
+    "stem": "1/3 3/9 2/3 13/21 17/26"
+  },
+  "72": {
+    "answer": "78.75",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*(0.5n+1)",
+    "stem": "1.5,3,7.5,22.5,78.75"
+  },
+  "720": {
+    "answer": "1/4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+3;B<sub>n</sub>=B<sub>n-1</sub>\\*2;",
+    "stem": "1 7/8 5/8 13/32 1/4 19/128"
+  },
+  "721": {
+    "answer": "344",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>-A<sub>1</sub>;C<sub>n</sub>=B<sub>n+1</sub>-B<sub>n</sub>;C<sub>n</sub>/C<sub>n-1</sub>=4",
+    "stem": "2 4 8 24 88 344"
+  },
+  "722": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n\\*2</sub>+A<sub>n\\*2+1</sub>; B<sub>n</sub>/B<sub>n-1</sub>=2;",
+    "stem": "1 1 3 1 3 5 6 10"
+  },
+  "723": {
+    "answer": "5/7",
+    "category": "sequence-reasoning",
+    "hint": "The subtraction between the numerator and denominator is 2",
+    "stem": "3 2 5/3 3/2 5/7"
+  },
+  "724": {
+    "answer": "7/5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+2)/n;",
+    "stem": "3 2 5/3 3/2 7/5"
+  },
+  "725": {
+    "answer": "190",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*3-2;(n&gt;3)",
+    "stem": "0 1 3 8 22 64 190"
+  },
+  "726": {
+    "answer": "62.5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(A<sub>n-1</sub>+A<sub>n-2</sub>)/2;",
+    "stem": "2 90 46 68 57 62.5"
+  },
+  "727": {
+    "answer": "18",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n</sub>+A<sub>n+1</sub>+A<sub>n+2</sub>; B<sub>n</sub>=(n+1)^2;",
+    "stem": "2 2 0 7 9 9 18"
+  },
+  "728": {
+    "answer": "233",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> mod A<sub>n-1</sub> = 2;",
+    "stem": "3 8 11 20 71 233"
+  },
+  "729": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)^(8-n)-1;",
+    "stem": "-1 0 31 80 63 24 5"
+  },
+  "73": {
+    "answer": "45",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>\\*(0.5n)",
+    "stem": "2,2,3,6,15,45"
+  },
+  "730": {
+    "answer": "23",
+    "category": "sequence-reasoning",
+    "hint": "The number is prime number and odd number",
+    "stem": "11 17 23 31 41 47"
+  },
+  "731": {
+    "answer": "9",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n\\*2</sub>-A<sub>n\\*2-1</sub>;B<sub>n+1</sub>-B<sub>n</sub>=(3-n)\\*3;",
+    "stem": "18 4 12 9 9 20 9 43"
+  },
+  "732": {
+    "answer": "36",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub>+A<sub>n-2</sub>+A<sub>n-3</sub>;",
+    "stem": "1 3 2 6 11 19 36"
+  },
+  "733": {
+    "answer": "1/48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub>=6-n;",
+    "stem": "1/2 1/8 1/24 1/48 1/48"
+  },
+  "734": {
+    "answer": "78.75",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub>=1+n\\*0.5;",
+    "stem": "1.5 3 7.5 22.5 78.75"
+  },
+  "735": {
+    "answer": "45",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub>=n\\*0.5;",
+    "stem": "2 2 3 6 15 45"
+  },
+  "736": {
+    "answer": "344",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>^2-A<sub>n-1</sub>;",
+    "stem": "5 6 19 17 344 -55"
+  },
+  "737": {
+    "answer": "49",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=B<sub>n</sub>\\*2+1; B<sub>n</sub>=10 24 45 73",
+    "stem": "2 21 49 91 147"
+  },
+  "738": {
+    "answer": "-2/5",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n\\*2</sub>/A<sub>n\\*2-1</sub>;B<sub>n+1</sub>-B<sub>n</sub>=-1;",
+    "stem": "-1/7 1/7 1/8 -1/4 -1/9 1/3 1/10 -2/5"
+  },
+  "739": {
+    "answer": "-28",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(5-n)^3-1;",
+    "stem": "63 26 7 0 -1 -2 -9 -28"
+  },
+  "74": {
+    "answer": "344",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=A<sub>n-1</sub><sup>2</sup>-A<sub>n-1</sub>",
+    "stem": "5,6,19,17,344,-55"
+  },
+  "740": {
+    "answer": "68",
+    "category": "sequence-reasoning",
+    "hint": "Sum of adjacent prime numbers",
+    "stem": "5 12 24 36 52 68"
+  },
+  "741": {
+    "answer": "255",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(A<sub>n-1</sub>+1)^2-1;",
+    "stem": "1 3 15 255"
+  },
+  "742": {
+    "answer": "11/14",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>= A<sub>n\\*2-2</sub> +3; B<sub>n\\*2</sub>= B<sub>n\\*2-2</sub> +3",
+    "stem": "3/7 5/8 5/9 8/11 7/11 11/14"
+  },
+  "743": {
+    "answer": "6",
+    "category": "sequence-reasoning",
+    "hint": "Add of symmetry with reference to the third term is 7;",
+    "stem": "1 2 2 3 3 4 5 5 6"
+  },
+  "744": {
+    "answer": "6621",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-1</sub> ^2-2;",
+    "stem": "3 7 47 2207 6621"
+  },
+  "745": {
+    "answer": "48",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>= A<sub>n+1</sub>- A<sub>n</sub>;Bn is prime number",
+    "stem": "20 22 25 30 37 48"
+  },
+  "746": {
+    "answer": "348",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= n\\*B<sub>n</sub>;B<sub>n</sub>=1 2 5 12 27 58",
+    "stem": "1 4 15 48 135 348"
+  },
+  "747": {
+    "answer": "5",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= (n+1)^(5-n);",
+    "stem": "16 27 16 5 1"
+  },
+  "748": {
+    "answer": "9",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(A<sub>n-1</sub>+A<sub>n-2</sub>)/2",
+    "stem": "4 12 8 10 9"
+  },
+  "749": {
+    "answer": "128",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3+3;",
+    "stem": "4 11 30 67 128"
+  },
+  "75": {
+    "answer": "49",
+    "category": "sequence",
+    "hint": "A<sub>n+1</sub>=A<sub>n</sub>+14n",
+    "stem": "2,21,49,91,147"
+  },
+  "750": {
+    "answer": "5/64",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)/2^n",
+    "stem": "0 1/4 1/4 3/16 1/8 5/64"
+  },
+  "752": {
+    "answer": "95",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3+2;",
+    "stem": "3 10 29 66 95"
+  },
+  "753": {
+    "answer": "1/32",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=1/(n^3+1);",
+    "stem": "1/2 1/9 1/28 1/32"
+  },
+  "754": {
+    "answer": "-3/35",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(-1)^n/(7\\*n);",
+    "stem": "-3/7 3/14 -1/7 3/28 -3/35"
+  },
+  "755": {
+    "answer": "43",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-1</sub>\\*2+(-1)^(n+1);",
+    "stem": "3 5 11 21 43"
+  },
+  "756": {
+    "answer": "137",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>\\*2+A<sub>n-1</sub>;",
+    "stem": "6 7 19 33 71 137"
+  },
+  "757": {
+    "answer": "63",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>=(n+1)^3-1;",
+    "stem": "1/11 7 1/7 26 1/3 63"
+  },
+  "758": {
+    "answer": "228",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= B<sub>n</sub>^2; B<sub>n</sub>=1 3 6 10 15;",
+    "stem": "4 12 39 103 228"
+  },
+  "759": {
+    "answer": "511",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+3)^3-1;",
+    "stem": "63 124 215 242 511"
+  },
+  "76": {
+    "answer": "-2/5",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=A<sub>2n-1</sub>\\*(-n)",
+    "stem": "-1/7,1/7,1/8,-1/4,-1/9,1/3,1/10,-2/5"
+  },
+  "760": {
+    "answer": "228",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>= A<sub>n+1</sub>-A<sub>n</sub>;Bn=(n+1)^3;",
+    "stem": "4 12 39 103 228"
+  },
+  "761": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(6-n)^3+(6-n);",
+    "stem": "130 68 30 10 2"
+  },
+  "762": {
+    "answer": "252",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n\\*B<sub>n</sub>;B<sub>n</sub>=2 6 12 20 30 42;",
+    "stem": "2 12 36 80 150 252"
+  },
+  "763": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^(4-n);",
+    "stem": "1 8 9 4 1 1/6"
+  },
+  "764": {
+    "answer": "31",
+    "category": "sequence-reasoning",
+    "hint": "odd number",
+    "stem": "5 17 21 25 31"
+  },
+  "765": {
+    "answer": "5/36",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n+1</sub> =(n+4)/(n+2);",
+    "stem": "20/9 4/3 7/9 4/9 1/4 5/36"
+  },
+  "766": {
+    "answer": "77",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-1</sub>\\*2+(n-4);",
+    "stem": "77 36 19 10 5 2"
+  },
+  "767": {
+    "answer": "180",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)\\*n^2;",
+    "stem": "0 4 18 48 100 180"
+  },
+  "768": {
+    "answer": "1/42",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= 1/((n+1)^2-(n+1));",
+    "stem": "1/2 1/6 1/12 1/30 1/42"
+  },
+  "769": {
+    "answer": "-3",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= (A<sub>n-2</sub>-A<sub>n-1</sub>)/2;",
+    "stem": "7 9 -1 5 -3"
+  },
+  "77": {
+    "answer": "-28",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(5-n)<sup>3</sup>-1",
+    "stem": "63,26,7,0,-1,-2,-9,-28"
+  },
+  "770": {
+    "answer": "1707",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>\\*A<sub>n-1</sub>-5;",
+    "stem": "3 7 16 107 1707"
+  },
+  "771": {
+    "answer": "30651",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>+2\\*A<sub>n-1</sub>;",
+    "stem": "2 3 13 175 30651"
+  },
+  "772": {
+    "answer": "125.64",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3.(n+3)^2;",
+    "stem": "1.16 8.25 27.36 64.49 125.64"
+  },
+  "773": {
+    "answer": "24",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>/A<sub>n-1</sub>=n-1;",
+    "stem": "1 1 2 6 24"
+  },
+  "774": {
+    "answer": "226",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>= A<sub>n</sub>-A<sub>n+1</sub>; B<sub>n</sub>-B<sub>n+1</sub>=6;",
+    "stem": "1 10 31 70 133 226"
+  },
+  "775": {
+    "answer": "185",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>= A<sub>n</sub>-A<sub>n+1</sub>; B<sub>n</sub>/B<sub>n+1</sub>=3;",
+    "stem": "10 1 3 8 22 63 185"
+  },
+  "776": {
+    "answer": "213",
+    "category": "sequence-reasoning",
+    "hint": "(2,3),(5,9),(3,7),(7,15);B<sub>n</sub>= A<sub>n</sub>\\*2-1;",
+    "stem": "23 59 213 715"
+  },
+  "777": {
+    "answer": "9",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>\\*A<sub>n\\*2-1</sub>= A<sub>n\\*2+2</sub>\\*10+A<sub>n\\*2+1</sub>;",
+    "stem": "2 9 1 8 9 8 7 2"
+  },
+  "778": {
+    "answer": "290",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=b<sub>n</sub>^2+1; B<sub>n</sub>-B<sub>n+1</sub>=-n;",
+    "stem": "5 10 26 65 145 290"
+  },
+  "779": {
+    "answer": "1",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n+2)^(4-n);",
+    "stem": "27 1 5 1 1/7"
+  },
+  "78": {
+    "answer": "68",
+    "category": "sequence",
+    "hint": "",
+    "stem": "5,12,24,36,52,68"
+  },
+  "780": {
+    "answer": "109",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>-A<sub>n-1</sub>\\*2;",
+    "stem": "1 1 3 7 17 41 109"
+  },
+  "781": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>/A<sub>n\\*2-1</sub>=n;",
+    "stem": "1 1 8 16 7 21 4 16 2 10"
+  },
+  "782": {
+    "answer": "180",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=(n-1)\\*n^2;",
+    "stem": "0 4 18 48 100 180"
+  },
+  "783": {
+    "answer": "1/48",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=S<sub>n-1</sub>;",
+    "stem": "1/6 1/6 1/12 1/24 1/48"
+  },
+  "784": {
+    "answer": "124/125",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=1-1/5^(n-1);",
+    "stem": "0 4/5 24/25 124/125"
+  },
+  "785": {
+    "answer": "-4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-2</sub>^3-A<sub>n-1</sub>;",
+    "stem": "1 0 -1 -2 -4"
+  },
+  "786": {
+    "answer": "11",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= A<sub>n-1</sub>\\*2+n;",
+    "stem": "0 0 1 4 11"
+  },
+  "787": {
+    "answer": "210",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=n^3-n;",
+    "stem": "0 6 24 60 120 210"
+  },
+  "788": {
+    "answer": "36, 33",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>= A<sub>n\\*2-2</sub>+1;A<sub>n\\*2+1</sub>=A<sub>n\\*2-1</sub>+1;",
+    "stem": "34 36 35 35 36 34 37 33"
+  },
+  "789": {
+    "answer": "515",
+    "category": "sequence-reasoning",
+    "hint": "(5,1)(31,2)(17,3)(51,4);",
+    "stem": "1 52 313 174 515"
+  },
+  "79": {
+    "answer": "255",
+    "category": "sequence",
+    "hint": "A<sub>n</sub>=(A<sub>n-1</sub>+1)<sup>2</sup>-1",
+    "stem": "1,3,15,255"
+  },
+  "790": {
+    "answer": "4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>= (A<sub>n-2</sub>+A<sub>n-1</sub>) mod 10;",
+    "stem": "6 7 3 0 3 3 6 9 5 4"
+  },
+  "791": {
+    "answer": "397",
+    "category": "sequence-reasoning",
+    "hint": "(39,2)(325,4)(39,6);",
+    "stem": "1 393 3255 397"
+  },
+  "792": {
+    "answer": "65",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>-A<sub>n</sub>,B<sub>n+1</sub>-B<sub>n</sub>=2\\*n;",
+    "stem": "17 24 33 46 65 92"
+  },
+  "793": {
+    "answer": "178.5",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>-A<sub>n</sub>,B<sub>n+1</sub>/B<sub>n</sub>=2;",
+    "stem": "8 96 140 162 173 178.5"
+  },
+  "794": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>=A<sub>n\\*2-2</sub>-1; A<sub>n\\*2+1</sub>=A<sub>n\\*2-1</sub>+1;",
+    "stem": "10 11 9 9 8 7 7 5 6"
+  },
+  "795": {
+    "answer": "10",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n\\*2</sub>+A<sub>n\\*2-1</sub>; B<sub>n</sub>=2^n;",
+    "stem": "1 1 3 1 3 5 6 10"
+  },
+  "796": {
+    "answer": "13",
+    "category": "sequence-reasoning",
+    "hint": "The number of strokes into Chinese characters increases",
+    "stem": "1 10 3 5 13"
+  },
+  "797": {
+    "answer": "255",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> =2^(2^(n-1))-1;",
+    "stem": "1 3 15 255"
+  },
+  "798": {
+    "answer": "7",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2</sub>-A<sub>n\\*2-1</sub>=3; A<sub>n\\*2+1</sub>-A<sub>n\\*2</sub>=1",
+    "stem": "1 4 3 6 57"
+  },
+  "799": {
+    "answer": "-4",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub> mod 3=2 1 0 1 2",
+    "stem": "14 4 3 -2 -4"
+  },
+  "8": {
+    "answer": "1",
+    "category": "sequence",
+    "hint": "1/2,3/3,5/5 ?,9/11,11/13",
+    "stem": "1/2,1,1,1,9/11,11/13"
+  },
+  "80": {
+    "answer": "11/14",
+    "category": "sequence",
+    "hint": "A<sub>2n</sub>=(3n+2)/(3n+5)",
+    "stem": "3/7,5/8,5/9,8/11,7/11,11/14"
+  },
+  "800": {
+    "answer": "1/47",
+    "category": "sequence-reasoning",
+    "hint": "B<sub>n</sub>=A<sub>n+1</sub>-A<sub>n</sub>;C<sub>n</sub>=B<sub>n+1</sub>-B<sub>n</sub>;C<sub>n+1</sub>-C<sub>n</sub>=2",
+    "stem": "8/3 4/5 4/31 1/47"
+  },
+  "801": {
+    "answer": "29",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n\\*2-1</sub>-A<sub>n\\*2</sub>=19;",
+    "stem": "59 40 48 29 37 18"
+  },
+  "802": {
+    "answer": "65",
+    "category": "sequence-reasoning",
+    "hint": "A<sub>n</sub>=A<sub>n-2</sub>^2+A<sub>n-1</sub>;",
+    "stem": "1 2 3 7 16 65 191"
+  }
+}

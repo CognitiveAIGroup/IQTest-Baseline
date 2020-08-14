@@ -1,0 +1,20 @@
+{
+  "test_suites": {
+    "seq": [],
+    "diagram": [],
+    "verbal": [
+      "eval-data"
+    ]
+  },
+  "version": "0.2.4",
+  "prev": "0.1",
+  "version_log": {
+    "0.1": "\nupdate data_file_name.json for test case\nupdate data_file_name.answer.json for answers\n",
+    "0.2": "\nadd verbal1-public.json case\n",
+    "0.2.1.1": "\nadd T1-105-public.json case\n",
+    "0.2.1.2": "\nfix T1-105-public.json case\n",
+    "0.2.2": "\nupdate data\n",
+    "0.2.3": "\nupdate some data\n",
+    "0.2.4": "\nadd more train data, fix inconsistency\n"
+  }
+}
