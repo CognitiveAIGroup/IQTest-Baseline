@@ -15,6 +15,11 @@ an example command is
 
 - The file `main.py` trains an RNN model to solve sequence problems in IQ-test, and display losses on train set and valid set, and accuracy on valid set to evaluate performance. The visulized result and trained model are saved. Sequences are splited into sub-sequences with length 3 to train the model.
 
-- The file `modeling.py` contains two data classes, which uses MinMaxScaler or divide by 10**MaxNumberLength to normalize data. This file also contains an RNN model called SeqRNN to solve seqence problem in IQ-test
+- The file `modeling.py` contains two data classes, which uses MinMaxScaler or divide by $10^{MaxNumberLength}$ to normalize data. This file also contains an RNN model called SeqRNN to solve seqence problem in IQ-test
 
 - The file `eval.py` is used to generate answers for accuracy testing.
+
+
+#### Generate Answer File
+You can run GenTestAnswer.py to generate Answer File for uploading from existing model. 
+Change the parameter inside the file before run the script. 
