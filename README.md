@@ -9,6 +9,7 @@ The Baseline models locate at following folders:
 The detail description of **IQ Test Challenge** are presented on https://github.com/CognitiveAIGroup/IQTest.
 
 Current performance of our baseline:
+
 | | Sequence | Verbal | Diagram |
 | Human performance |  100 | 80 | 100 |
 | Our performance | 7.305 | 34.033 | 25.397 |
