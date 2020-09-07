@@ -1,6 +1,6 @@
 ## Baseline models for IJCAI-2020 Machine Automated IQ Test Challenge
 
-The Baseline models locate at following folders:
+The Baseline models are located at following folders:
 
 1. [Diagram](/diagram/README.md)
 2. [Sequence](/sequence/README.md)
